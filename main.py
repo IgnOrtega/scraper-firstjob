@@ -97,7 +97,8 @@ def main(DATA_DIR, MAX_PAGES=None, DELAY_EXPECTED=3.0):
             a = mu - (ancho / 2)
             b = mu + (ancho / 2)
 
-            retraso = random.uniform(max(0.1, a), max(0.1, b))
+            #retraso = random.uniform(max(0.1, a), max(0.1, b))
+            retraso=0
             logger.info(f"Esperando {retraso:.2f} segundos antes de la siguiente página...")
             time.sleep(retraso)
 
