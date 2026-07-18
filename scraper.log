@@ -1,0 +1,1069 @@
+2026-06-20 18:05:44,617 - firstjob_scraper - INFO - Iniciando scraping en https://firstjob.me/ofertas?semantic=a
+2026-06-20 18:05:52,578 - firstjob_scraper - INFO - Scrapeando página 1...
+2026-06-20 18:05:52,583 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:05:52,786 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:05:53,572 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55153/administrador-a-de-catalogos-e-commerce-colina-hibrido
+2026-06-20 18:05:53,594 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55123/ejecutivo-clientes-banca-personas-san-felipe
+2026-06-20 18:05:53,599 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55095/memoria-tesis-ingenieria-civil-informatica-computacion-o-carrera-afin
+2026-06-20 18:05:53,603 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55091/practica-mejora-continua-tpm-ovalle
+2026-06-20 18:05:53,607 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55090/practica-tecnico-y-o-ingeniero-en-administracion-comercial-o-carreras-afines-iquique
+2026-06-20 18:05:54,485 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55075/practica-profesional-area-prevencion-de-riesgos-nestle-maipu
+2026-06-20 18:05:55,136 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55062/practica-nestle-fabrica-san-fernnado-ingenieria-mecanica-automatizacion-y-control-ingenieria-industrial
+2026-06-20 18:05:55,171 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55061/practica-en-seguridad-prevencion-de-riesgos-nestle-graneros
+2026-06-20 18:05:55,226 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55017/practica-aseguramiento-de-calidad-coinco
+2026-06-20 18:05:55,292 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55006/oportunidad-practica-profesional-red-de-sucursales-antofagasta
+2026-06-20 18:05:55,296 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55004/practica-profesional-tecnico-en-administracion-secretariado-o-afines
+2026-06-20 18:05:55,968 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54954/prevencionista-de-riesgos-iii-region
+2026-06-20 18:05:56,448 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54839/practica-profesional-ayudante-soldador
+2026-06-20 18:05:56,464 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54805/practica-prevencion-de-riesgos-san-bernardo
+2026-06-20 18:05:56,495 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54800/practica-para-prevencion-de-riesgos-san-bernardo
+2026-06-20 18:05:56,542 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54659/practica-profesional-prevencionista-de-riesgos
+2026-06-20 18:05:56,573 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54615/practica-quimica-y-farmacia
+2026-06-20 18:05:57,060 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54590/quimico-a-farmaceutico-a-copiapo
+2026-06-20 18:05:57,107 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55152/category-manager-de-e-commerce-colina-hibrido
+2026-06-20 18:05:57,107 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55146/practica-profesional-gestion-de-cuentas-electricas-clickie
+2026-06-20 18:06:03,486 - firstjob_scraper - INFO - Scrapeando página 2...
+2026-06-20 18:06:03,500 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:06:03,719 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:06:03,930 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55144/practica-ingenieria-civil-electrica-huawei-bd-digital-power
+2026-06-20 18:06:03,935 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55141/practica-tecnico-y-o-ingeniero-en-administracion-control-de-gestion-o-carrera-afin
+2026-06-20 18:06:03,940 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55135/practica-profesional-ingenieria-ambiental-o-medio-ambiente
+2026-06-20 18:06:03,944 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55111/practica-obrera
+2026-06-20 18:06:03,949 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55071/practica-ingenieria-area-herramientas-digitales-nestle-graneros
+2026-06-20 18:06:05,378 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55070/practicante-diseno-grafico-nestle-la-fete-quilicura
+2026-06-20 18:06:05,410 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55068/practica-profesional-mejora-continua-procesos-fca-san-fernando
+2026-06-20 18:06:05,442 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55037/practica-diseno-grafico-ecommerce-verken
+2026-06-20 18:06:05,474 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55034/practica-dibujo-tecnico-glover
+2026-06-20 18:06:05,567 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55028/practica-ingenieria-en-alimentos-tecnologia-en-alimentos-calidad-y-desarrollo-de-proveedores-s
+2026-06-20 18:06:05,907 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55020/practica-soporte-operacional-mantenimiento
+2026-06-20 18:06:06,120 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55019/practica-de-seguridad-y-medio-ambiente
+2026-06-20 18:06:06,120 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54991/practica-tecnico-nivel-superior-en-electricidad
+2026-06-20 18:06:06,183 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54935/practica-profesional-area-prevencion-de-riesgos-nestle-maipu
+2026-06-20 18:06:06,183 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54904/practica-ingenieria-tecnico-en-prevencion-de-riesgos
+2026-06-20 18:06:06,347 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54826/practicante-de-gestion-de-competencias-y-capacitacion-nestle-fabrica-teno
+2026-06-20 18:06:06,550 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54812/practica-area-ventas-antofagasta
+2026-06-20 18:06:06,691 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54785/practica-operaciones-ovalle
+2026-06-20 18:06:06,769 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54764/practica-diseno-grafico
+2026-06-20 18:06:06,862 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54731/practica-aseguramiento-de-calidad-renca
+2026-06-20 18:06:12,927 - firstjob_scraper - INFO - Scrapeando página 3...
+2026-06-20 18:06:12,940 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:06:13,122 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:06:13,335 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54703/content-lead-ecommerce-verken-kaut
+2026-06-20 18:06:13,340 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54591/quimico-a-farmaceutico-a-nivel-nacional
+2026-06-20 18:06:13,344 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54577/practica-excelencia-operacional-y-automatizacion-de-procesos
+2026-06-20 18:06:13,349 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54575/practica-digitalizaciones-sso
+2026-06-20 18:06:13,353 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54322/practica-en-el-area-de-ventas-antofagasta
+2026-06-20 18:06:14,357 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54040/practica-tecnica-en-mecanica-logistica-automotriz-maipu
+2026-06-20 18:06:14,366 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54039/practica-tecnico-en-el-area-riesgo-automotriz
+2026-06-20 18:06:14,432 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55150/practica-profesional-area-de-procesos-y-proyectos
+2026-06-20 18:06:14,432 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55136/practica-credito-y-cobranzas-apoyo-normalizacion
+2026-06-20 18:06:14,669 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55131/practica-profesional-qa
+2026-06-20 18:06:14,952 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55128/practica-profesional-en-innovacion-ia-y-automatizacion-de-procesos
+2026-06-20 18:06:15,045 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55107/practica-digital-marketing-community-invierno-2026
+2026-06-20 18:06:15,077 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55093/practica-profesional-area-control-de-existencias-santiago
+2026-06-20 18:06:15,139 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55079/practica-areas-recursos-humanos-training-nestle-teno
+2026-06-20 18:06:15,139 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55072/practica-ingenieria-herramientas-digitales-nestle-san-fernando
+2026-06-20 18:06:15,575 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55060/practica-nestle-fabrica-macul-ingenieria-mecanica-automatizacion-y-control-ingenieria-industrial
+2026-06-20 18:06:15,731 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55058/practica-asuntos-regulatorios-haleon-chile
+2026-06-20 18:06:15,827 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55039/practica-administracion-de-empresas-contabilidad-o-logistica-gestion-de-activos-y-mejora-continua
+2026-06-20 18:06:15,863 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54992/practica-profesional-gestion-de-cuentas-electricas-clickie
+2026-06-20 18:06:16,239 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54948/practica-disenador-creativo
+2026-06-20 18:06:22,445 - firstjob_scraper - INFO - Scrapeando página 4...
+2026-06-20 18:06:22,457 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:06:22,645 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:06:22,861 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54946/practica-obrera-en-ingenieria
+2026-06-20 18:06:22,863 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54938/practica-area-seguridad-y-salud-ocupacional-nestle-fabrica-cancura
+2026-06-20 18:06:22,871 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54902/practica-profesional-ing-en-alimentos-planta-teno
+2026-06-20 18:06:22,875 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54882/prevencionista-de-riesgos
+2026-06-20 18:06:22,879 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54856/practica-ingenieria-herramientas-digitales-nestle-san-fernando
+2026-06-20 18:06:23,691 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54836/practica-en-recursos-humanos-clima-y-cultura-nestle-san-fernando
+2026-06-20 18:06:23,724 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54752/practica-aseguramiento-de-calidad-antofagasta
+2026-06-20 18:06:23,757 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54742/practicante-de-calidad-industria-alimentaria-nestle-fabrica-cancura
+2026-06-20 18:06:23,924 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54732/practica-metodologia-tmp-renca
+2026-06-20 18:06:24,180 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54695/practicante-diseno
+2026-06-20 18:06:24,240 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54646/practica-profesional-area-calidad-nestle-cancura
+2026-06-20 18:06:24,360 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54503/practica-profesional-psicologia-organizacional-osorno
+2026-06-20 18:06:24,406 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54496/practica-asistente-de-operaciones
+2026-06-20 18:06:24,438 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55149/analista-financiero-tesoreria-provida
+2026-06-20 18:06:24,543 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55148/practica-profesional-sostenibilidad-y-analisis-de-datos
+2026-06-20 18:06:24,653 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55138/people-analytics
+2026-06-20 18:06:24,746 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55137/practica-tecnico-en-logistica
+2026-06-20 18:06:24,976 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55130/practica-credito-y-cobranzas-levantamiento-de-procesos
+2026-06-20 18:06:25,042 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55127/practica-profesional-ingenieria-civil-industrial-e-ingenieria-comercial
+2026-06-20 18:06:25,081 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55125/practica-profesional-area-control-y-adherencia-de-procesos-santiago
+2026-06-20 18:06:31,328 - firstjob_scraper - INFO - Scrapeando página 5...
+2026-06-20 18:06:31,341 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:06:31,544 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:06:31,756 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55120/practica-back-office-retail
+2026-06-20 18:06:31,761 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55103/practica-comercial-lab2-practicas-invierno-2026
+2026-06-20 18:06:31,765 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55101/practica-profesional-area-control-de-ingresos-santiago
+2026-06-20 18:06:31,769 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55098/practica-profesional-area-devex-santiago
+2026-06-20 18:06:31,774 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55083/practica-profesional-area-tesoreria-santiago
+2026-06-20 18:06:32,571 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55080/practicante-de-informatica-y-procesos-digitales-nestle-cd-macul
+2026-06-20 18:06:32,675 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55077/practica-profesional-division-tecnica-nestle-maipu
+2026-06-20 18:06:32,738 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55076/practica-profesional-area-calidad-nestle-fabrica-maipu
+2026-06-20 18:06:32,743 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55073/practica-ecommerce-y-analisis-comercial-la-fete-quilicura
+2026-06-20 18:06:33,215 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55069/practica-ingenieria-desarrollos-digitales-nestle-fabrica-maipu
+2026-06-20 18:06:33,249 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55059/practicante-area-informatica-procesos-digitales-nestle-macul
+2026-06-20 18:06:33,343 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55056/practica-marketing
+2026-06-20 18:06:33,475 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55040/practica-sociologia-ciencia-politica-o-carrera-afin-comunidades-y-sostenibilidad
+2026-06-20 18:06:33,509 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55036/practica-profesional-area-tecnica-cross-border-santiago
+2026-06-20 18:06:33,617 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55027/practica-contraloria
+2026-06-20 18:06:33,850 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55010/practica-de-gestion-red
+2026-06-20 18:06:33,987 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54926/practica-areas-recursos-humanos-training-nestle-teno
+2026-06-20 18:06:34,021 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54859/practica-ingenieria-ambiental-nestle-cancura
+2026-06-20 18:06:34,116 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54772/practica-en-licencias-y-gestion-de-calidad-renca
+2026-06-20 18:06:34,212 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54748/practica-relaciones-laborales-renca
+2026-06-20 18:06:40,631 - firstjob_scraper - INFO - Scrapeando página 6...
+2026-06-20 18:06:40,644 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:06:40,828 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:06:41,047 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54721/practica-profesional-division-tecnica-nestle-macul
+2026-06-20 18:06:41,051 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54658/practica-control-de-calidad-manantial-quilicura
+2026-06-20 18:06:41,056 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54645/practica-profesional-ingenieria-en-alimentos-desarrollo-de-productos-nestle-macul
+2026-06-20 18:06:41,061 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54562/practica-televentas-renca
+2026-06-20 18:06:41,065 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54514/experto-a-en-prevencion-de-riesgos-ingenieria-en-prevencion-de-riesgos
+2026-06-20 18:06:41,847 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54505/practica-area-prevencion-de-riesgos
+2026-06-20 18:06:41,893 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54504/practica-profesional-tecnico-a-en-administracion-de-empresas-osorno
+2026-06-20 18:06:41,926 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54488/practica-en-regularizacion-ambiental
+2026-06-20 18:06:41,967 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54438/practicante-de-calidad-industria-alimentaria-nestle-fabrica-cancura
+2026-06-20 18:06:42,183 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54406/practica-diseno-grafico-construmart
+2026-06-20 18:06:42,413 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54232/practica-profesional-prevencion-de-riesgos-isla-de-maipo
+2026-06-20 18:06:42,444 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/52691/practica-ingenieria-en-alimentos
+2026-06-20 18:06:42,522 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55151/ingeniero-de-procesos-part-time-por-proyecto
+2026-06-20 18:06:42,554 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55139/practica-profesional-gobierno-de-datos-banco-ripley
+2026-06-20 18:06:42,585 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55119/practica-comercial-maipu
+2026-06-20 18:06:42,948 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55112/practica-profesional-contraloria
+2026-06-20 18:06:43,042 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55109/practica-profesional-gerencia-riesgo-y-cobranza-ia
+2026-06-20 18:06:43,089 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55067/process-engineering-intern-practica-area-financing
+2026-06-20 18:06:43,104 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55066/practica-ingenieria-supply-chain-nestle-fabrica-maipu
+2026-06-20 18:06:43,151 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55038/practica-administracion-de-empresas-auditoria-o-logistica-proyectos-e-inversiones
+2026-06-20 18:06:49,248 - firstjob_scraper - INFO - Scrapeando página 7...
+2026-06-20 18:06:49,263 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:06:49,448 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:06:49,662 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55008/practica-area-de-ventas-sdr-team-brasil-remoto
+2026-06-20 18:06:49,666 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54934/practica-ingenieria-area-herramientas-digitales-nestle-graneros
+2026-06-20 18:06:49,670 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54931/practica-area-recursos-humanos-nestle-san-fernando
+2026-06-20 18:06:49,674 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54862/practica-diseno-marketing
+2026-06-20 18:06:49,680 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54861/practica-comercial-business-developer
+2026-06-20 18:06:50,678 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54855/practica-ingenieria-implementacion-de-sistemas-en-planta-nestle-graneros
+2026-06-20 18:06:50,678 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54844/practica-profesional-periodismo-audiovisual-area-de-comunicaciones
+2026-06-20 18:06:50,744 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54818/practica-optimizacion-de-procesos-cd-renca
+2026-06-20 18:06:50,752 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54814/practica-optimizacion-de-procesos-renca
+2026-06-20 18:06:50,852 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54808/practica-profesional-ing-en-alimentos-planta-teno
+2026-06-20 18:06:51,287 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54784/practica-optimizacion-de-procesos-renca
+2026-06-20 18:06:51,306 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54763/practica-diseno-ux-ui
+2026-06-20 18:06:51,353 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54755/practica-consolidacion-y-analisis-de-datos-renca
+2026-06-20 18:06:51,456 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54751/practica-encargado-de-existencia
+2026-06-20 18:06:51,487 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54734/practica-gestion-de-activos-y-mantenimiento-renca
+2026-06-20 18:06:51,736 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54643/practica-profesional-investigacion-y-desarrollo-nestle-maipu
+2026-06-20 18:06:51,908 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54637/ing-instrumentista-ii-region
+2026-06-20 18:06:51,934 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54141/practica-profesional-dibujante-obras-electricas
+2026-06-20 18:06:51,965 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54017/practica-prevencion-de-riesgos-y-medio-ambiente
+2026-06-20 18:06:52,074 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53390/practica-en-desarrollo-e-infraestructura
+2026-06-20 18:06:58,240 - firstjob_scraper - INFO - Scrapeando página 8...
+2026-06-20 18:06:58,253 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:06:58,439 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:06:58,653 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55133/practica-profesional-clientes-y-proyectos-estrategicos
+2026-06-20 18:06:58,658 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55122/asistente-de-impuestos
+2026-06-20 18:06:58,663 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55116/people-analyst
+2026-06-20 18:06:58,667 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55113/practica-profesional-gerencia-alianzas-y-retail
+2026-06-20 18:06:58,672 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55108/practica-profesional-comunicaciones-externas
+2026-06-20 18:06:59,654 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55106/practica-profesional-area-plataformas-ti-y-ciberseguridad-santiago
+2026-06-20 18:06:59,662 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55104/practica-reclutamiento-y-seleccion-chile
+2026-06-20 18:06:59,695 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55097/practica-profesional-area-facturacion-y-cobranza-santiago
+2026-06-20 18:06:59,728 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55088/practica-profesional-gestion-y-proyectos-2-santiago
+2026-06-20 18:06:59,770 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55087/practica-profesional-gestion-y-proyectos-santiago
+2026-06-20 18:07:00,405 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55086/practica-profesional-area-contabilidad-santiago
+2026-06-20 18:07:00,467 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55084/practica-profesional-ultima-milla-santiago
+2026-06-20 18:07:00,467 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55055/practica-profesional-reporting-financiero
+2026-06-20 18:07:00,577 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55018/practica-optimizacion-y-digitalizacion-de-operaciones-renca
+2026-06-20 18:07:00,577 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55015/practica-de-diseno
+2026-06-20 18:07:01,109 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54974/practica-en-mantenimiento-industrial-planta-los-lagos
+2026-06-20 18:07:01,124 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54965/practica-profesional-area-optimizacion-2-santiago
+2026-06-20 18:07:01,166 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54940/practica-profesional-area-sistema-de-medicion-y-gestion-energetica-nestle-macul
+2026-06-20 18:07:01,228 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54920/ingeniero-implementacion-sie
+2026-06-20 18:07:01,260 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54899/practica-ingenieria-civil-industrial-planta-lontue
+2026-06-20 18:07:07,619 - firstjob_scraper - INFO - Scrapeando página 9...
+2026-06-20 18:07:07,631 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:07:07,837 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:07:08,051 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54863/practica-cobranzas
+2026-06-20 18:07:08,056 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54846/practica-carreras-tecnico-administrativas
+2026-06-20 18:07:08,063 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54843/practica-para-recursos-humanos-san-bernardo
+2026-06-20 18:07:08,068 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54830/practica-cuentas-claves
+2026-06-20 18:07:08,073 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54824/practica-optimizacion-de-procesos-a-e
+2026-06-20 18:07:09,100 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54820/practica-procesos-industriales-operacionales
+2026-06-20 18:07:09,105 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54819/practica-optimizacion-de-equipos-de-mejora-continua
+2026-06-20 18:07:09,137 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54792/practica-automatizacion-de-procesos-quilicura
+2026-06-20 18:07:09,175 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54791/practica-administracion-de-empresas-tecnico-administrativo-o-carrera-a-fin-siniestros-vm
+2026-06-20 18:07:09,370 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54775/practica-control-de-gestion-control-de-gestion-y-optimizacion-de-procesos-quilicura
+2026-06-20 18:07:09,584 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54771/practica-aseguramiento-de-calidad-quilicura
+2026-06-20 18:07:09,659 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54769/practica-laboratorio-soprole
+2026-06-20 18:07:09,796 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54745/practica-analisis-sensorial-y-calidad-cervecera-quilicura
+2026-06-20 18:07:09,830 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54737/operador-de-traslados-cuarto-turno
+2026-06-20 18:07:09,904 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54715/practica-administracion-de-empresas-tecnico-administrativo-o-carrera-a-fin
+2026-06-20 18:07:10,036 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54680/practica-profesional-mantencion-sorter-santiago
+2026-06-20 18:07:10,081 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54584/practica-en-gestion-de-contenido-de-productos-digitales-hibrido-colina
+2026-06-20 18:07:10,176 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54493/practica-para-contador-auditor-ingenieria-comercial
+2026-06-20 18:07:10,249 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54437/practica-tesis-ingenieria-civil-industrial-seguridad-y-gestion-nestle-fabrica-de-cancura
+2026-06-20 18:07:10,464 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54431/practica-profesional-gerencia-de-marketing-comunicaciones
+2026-06-20 18:07:16,469 - firstjob_scraper - INFO - Scrapeando página 10...
+2026-06-20 18:07:16,483 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:07:16,684 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:07:16,897 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54359/practica-credito-y-cobranza-quilicura
+2026-06-20 18:07:16,902 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54194/service-lab-intern
+2026-06-20 18:07:16,906 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54022/practica-administracion-de-empresas-tecnico-administrativo-o-carrera-a-fin
+2026-06-20 18:07:16,911 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53436/practica-inteligencia-comercial
+2026-06-20 18:07:16,916 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55117/practica-ing-comercial-y-civil-finanzas
+2026-06-20 18:07:17,902 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55115/practica-profesional-en-ingenieria-informatica-ingenieria-electronica
+2026-06-20 18:07:17,907 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55110/practica-profesional-gerencia-ripley-puntos-go
+2026-06-20 18:07:17,942 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55096/practica-profesional-area-marketing-santiago
+2026-06-20 18:07:18,015 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55082/practica-area-comercial
+2026-06-20 18:07:18,044 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55074/practica-ingenieria-comercial-civil-industrial-o-carreras-afines-area-comercial
+2026-06-20 18:07:18,493 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55005/practica-profesional-area-comercial
+2026-06-20 18:07:18,526 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55002/practica-carreras-tecnico-administrativas
+2026-06-20 18:07:18,613 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54993/practica-nuevos-negocios-ventas
+2026-06-20 18:07:18,648 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54955/ejecutivo-clientes-pyme-sucursal-villarrica
+2026-06-20 18:07:18,677 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54933/practica-business-intelligence
+2026-06-20 18:07:18,954 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54932/practica-ingenieria-desarrollos-digitales-nestle-fabrica-maipu
+2026-06-20 18:07:19,065 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54930/practica-tpm-transformacion-digital
+2026-06-20 18:07:19,102 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54912/practica-distribucion-y-transporte-logistica-supermercados-noviciado-pudahuel-cencosud
+2026-06-20 18:07:19,243 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54909/practica-profesional-sostenibilidad-regional-foco-abastecimiento-responsable-asg
+2026-06-20 18:07:19,278 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54903/practica-ingenieria-mecanica
+2026-06-20 18:07:25,550 - firstjob_scraper - INFO - Scrapeando página 11...
+2026-06-20 18:07:25,564 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:07:25,752 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:07:25,964 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54874/practica-profesional-area-operaciones-regiones-malvilla
+2026-06-20 18:07:25,969 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54860/practica-innovacion
+2026-06-20 18:07:25,974 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54847/practicante-diseno-grafico-nestle-la-fete-quilicura
+2026-06-20 18:07:25,979 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54842/practica-optimizacion-de-procesos-operacionales-quilicura
+2026-06-20 18:07:25,983 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54823/practica-logistica-y-administracion-temuco
+2026-06-20 18:07:26,999 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54799/practica-para-contador-auditor-ingenieria-comercial
+2026-06-20 18:07:27,061 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54782/practica-bienestar-organizacional-ovalle
+2026-06-20 18:07:27,067 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54776/gana-un-viaje-a-finlandia-desafio-ey-nextgen-women-2026
+2026-06-20 18:07:27,104 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54773/practica-laboratorio-de-calidad-renca
+2026-06-20 18:07:27,150 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54756/practica-gestion-de-almacenes
+2026-06-20 18:07:27,607 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54679/practica-gestion-de-remuneraciones-las-condes
+2026-06-20 18:07:27,641 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54666/practica-profesional-prevencion-de-delitos
+2026-06-20 18:07:27,732 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54593/practica-profesional-2026-estudiantes-de-sociologia
+2026-06-20 18:07:27,795 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54551/practica-packaging-optimizacion-nestle-san-fernando
+2026-06-20 18:07:27,828 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54525/practica-area-ventas-pudahuel
+2026-06-20 18:07:28,081 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54511/practica-audiovisual-capacitaciones
+2026-06-20 18:07:28,219 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54475/practica-tesis-ingenieria-civil-industrial-seguridad-y-gestion-nestle-fabrica-de-cancura
+2026-06-20 18:07:28,252 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54025/practica-ing-comercial-administracion-de-empresas-o-carreras-afines-temuco
+2026-06-20 18:07:28,327 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54024/practica-ing-comercial-administracion-de-empresas-o-carreras-afines-temuco
+2026-06-20 18:07:28,446 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55147/practica-de-psicologia-equipo-atraccion-de-talento-segundo-semestre
+2026-06-20 18:07:34,535 - firstjob_scraper - INFO - Scrapeando página 12...
+2026-06-20 18:07:34,549 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:07:34,733 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:07:34,946 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55132/practica-profesional-data-analytics
+2026-06-20 18:07:34,950 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55124/practica-profesional-gerencia-de-productos
+2026-06-20 18:07:34,955 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55081/practica-profesional-moda-mujer-ecommerce
+2026-06-20 18:07:34,959 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55016/practica-finanzas-gestion-de-activos
+2026-06-20 18:07:34,964 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55003/practica-diseno-de-innovacion-agosto-2026
+2026-06-20 18:07:35,782 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54999/practica-profesional-en-seller-growth-paris-marketplace
+2026-06-20 18:07:35,815 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54998/practica-content-strategist-automotora-de-autos-usados
+2026-06-20 18:07:35,882 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54994/practica-diseno-grafico-wild-foods
+2026-06-20 18:07:35,915 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54953/practica-profesional-area-proyecto-infraestructura-santiago
+2026-06-20 18:07:35,999 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54937/practica-profesional-area-calidad-nestle-fabrica-maipu
+2026-06-20 18:07:36,228 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54914/practica-e-commerce
+2026-06-20 18:07:36,360 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54913/practica-procesos-logisticos-de-supermercados-cencosud
+2026-06-20 18:07:36,391 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54900/practica-diseno-grafico
+2026-06-20 18:07:36,500 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54880/practica-profesional-marketplace-deco-hogar
+2026-06-20 18:07:36,563 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54877/practica-profesional-moda-hombre-ecommerce
+2026-06-20 18:07:36,604 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54864/practica-diseno-ux
+2026-06-20 18:07:36,830 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54858/practica-ecommerce-y-analisis-comercial-la-fete-quilicura
+2026-06-20 18:07:36,924 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54853/practica-ingenieria-power-bi-y-analisis-de-datos-nestle-fabrica-maipu
+2026-06-20 18:07:37,018 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54828/practica-innovacion-logistica-y-sustentabilidad
+2026-06-20 18:07:37,138 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54765/practica-en-calidad-y-procesos-cerveceros-quilicura
+2026-06-20 18:07:43,339 - firstjob_scraper - INFO - Scrapeando página 13...
+2026-06-20 18:07:43,354 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:07:43,528 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:07:43,741 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54753/practica-en-seguros-y-sox-las-condes
+2026-06-20 18:07:43,745 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54723/practica-profesional-area-desarrollo-de-productos-investigacion-y-desarrollo-nestle-maipu
+2026-06-20 18:07:43,750 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54722/practica-profesional-division-tecnica-nestle-maipu
+2026-06-20 18:07:43,754 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54647/practica-profesional-it-license-compliance
+2026-06-20 18:07:43,758 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54587/practica-disenador-ux-ui-branding
+2026-06-20 18:07:44,849 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54564/practica-tecnico-area-de-ti-soporte-tresmontes-lucchetti-providencia
+2026-06-20 18:07:44,853 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54526/practica-en-mantenimiento
+2026-06-20 18:07:44,857 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54520/practica-ingenieria-electrica-nestle-fabrica-macul
+2026-06-20 18:07:44,861 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54501/ejecutivo-financiamiento-automotriz-quillota-valparaiso
+2026-06-20 18:07:44,904 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54499/integrations-consultant-intern-s4c
+2026-06-20 18:07:45,770 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54426/practica-en-trabajo-social-renca-soprole
+2026-06-20 18:07:45,774 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54397/practica-hr-process-optimization
+2026-06-20 18:07:45,778 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54391/practica-quality-assurance-wild-foods
+2026-06-20 18:07:45,851 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54171/practica-profesional-equipo-de-contraloria-cchc-auditores-ing-en-informacion-y-control-de-gestion-ing-estadistico
+2026-06-20 18:07:45,856 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54111/practica-contador-auditor-las-condes
+2026-06-20 18:07:46,533 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53888/practica-servicio-de-arriendo-de-herramientas-easy
+2026-06-20 18:07:46,569 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55142/practica-reclutamiento-y-seleccion
+2026-06-20 18:07:46,647 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55054/practica-area-legal
+2026-06-20 18:07:46,683 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55053/practica-experiencia-de-clientes-cencosud
+2026-06-20 18:07:46,715 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55042/practica-ing-de-procesos
+2026-06-20 18:07:52,912 - firstjob_scraper - INFO - Scrapeando página 14...
+2026-06-20 18:07:52,924 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:07:53,101 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:07:53,315 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55031/practica-profesional-area-productos-santiago
+2026-06-20 18:07:53,320 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54990/practica-ingenieria-en-informatica-o-sistemas
+2026-06-20 18:07:53,324 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54942/practica-division-tecnica-produccion-ingenieria-nestle-region-metropolitana
+2026-06-20 18:07:53,329 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54917/practica-profesional-equipo-de-contraloria-cchc-auditores-ing-en-informacion-y-control-de-gestion-ing-estadistico
+2026-06-20 18:07:53,333 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54911/practica-procesos-logisticos-supermercados-cencosud-noviciado-pudahuel
+2026-06-20 18:07:54,194 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54910/practica-negocios-digitales-easy
+2026-06-20 18:07:54,278 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54885/practica-profesional-area-operaciones-regiones-rancagua
+2026-06-20 18:07:54,311 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54881/practica-profesional-marketplace-electronica
+2026-06-20 18:07:54,481 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54879/practica-profesional-marketplace-calzado
+2026-06-20 18:07:54,517 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54832/practica-en-auditoria
+2026-06-20 18:07:54,702 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54825/practica-control-y-gestion-de-activos-kardex
+2026-06-20 18:07:54,756 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54821/practica-tpm-temuco
+2026-06-20 18:07:54,789 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54749/practica-control-de-gestion-rrhh-temuco
+2026-06-20 18:07:54,895 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54664/practica-profesional-control-presupuesto-ti
+2026-06-20 18:07:54,971 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54662/practica-profesional-portfolio-pmo
+2026-06-20 18:07:55,116 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54657/practica-profesional-desarrollo-de-sistemas-transversales
+2026-06-20 18:07:55,260 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54655/practica-profesional-qa-banco-ripley
+2026-06-20 18:07:55,328 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54654/practica-profesional-arquitectura-empresarial-banco-ripley
+2026-06-20 18:07:55,409 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54634/practica-profesional-division-decohogar
+2026-06-20 18:07:55,441 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54628/practica-profesional-division-electronica
+2026-06-20 18:08:01,581 - firstjob_scraper - INFO - Scrapeando página 15...
+2026-06-20 18:08:01,593 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:08:01,789 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:08:01,999 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54621/practica-profesional-electro-ecommerce
+2026-06-20 18:08:02,006 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54618/practica-profesional-planificacion-comercial-reposicion
+2026-06-20 18:08:02,010 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54553/practica-alimentos-evaluacion-sensorial-y-vida-util-nestle-fc-macul
+2026-06-20 18:08:02,015 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54489/practica-control-gestion-de-activos-y-area-comercial-melipilla
+2026-06-20 18:08:02,019 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54395/practica-finance-process-optimization
+2026-06-20 18:08:03,027 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54128/practica-analisis-de-tesoreria-las-condes
+2026-06-20 18:08:03,035 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53862/practica-en-telecomunicaciones-huawei-rf-engineer
+2026-06-20 18:08:03,035 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53019/prevencionista-de-riesgos
+2026-06-20 18:08:03,108 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55126/product-manager-ing-comercial-lampa-valle-grande-1-3-liquidos
+2026-06-20 18:08:03,112 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55078/practica-profesional-area-rrhh-administracion-nestle-las-condes
+2026-06-20 18:08:03,760 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55057/practica-de-proyectos-y-mejora-continua-rrhh-las-condes
+2026-06-20 18:08:03,823 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55032/practica-area-fidelizacion-mejora-continua-y-automatizacion
+2026-06-20 18:08:03,838 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55007/analista-de-reclutamiento-y-marca-empleadora-peru
+2026-06-20 18:08:03,870 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54996/practica-desarrollo-wild-foods
+2026-06-20 18:08:03,901 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54949/practicante-desarrollo-corporativo
+2026-06-20 18:08:04,407 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54939/practica-profesional-compras-y-contratos
+2026-06-20 18:08:04,527 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54827/practica-mejora-continua-y-optimizacion-de-procesos
+2026-06-20 18:08:04,559 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54779/practica-mejora-continua-y-estandarizacion-de-procesos
+2026-06-20 18:08:04,637 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54762/operador-a-mantenedor-a
+2026-06-20 18:08:04,668 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54663/practica-profesional-estrategia-digital
+2026-06-20 18:08:10,825 - firstjob_scraper - INFO - Scrapeando página 16...
+2026-06-20 18:08:10,839 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:08:11,022 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:08:11,235 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54638/practica-profesional-continuidad-y-soporte-ti
+2026-06-20 18:08:11,240 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54630/practica-profesional-implementacion-comercial
+2026-06-20 18:08:11,245 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54626/practica-profesional-procesos-comerciales
+2026-06-20 18:08:11,249 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54617/practica-profesional-seller-services
+2026-06-20 18:08:11,254 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54612/practica-profesional-negocios-duros-electro
+2026-06-20 18:08:12,103 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54601/practica-ingenieria-civil-electrica-huawei-digital-power
+2026-06-20 18:08:12,177 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54559/practica-excelencia-operacional
+2026-06-20 18:08:12,186 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54544/practica-operaciones-ecommerce-verken-kaut
+2026-06-20 18:08:12,219 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54519/practica-en-estrategia-comercial-y-gestion-de-ingresos
+2026-06-20 18:08:12,652 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54477/practica-ingenieria-en-alimentos-desarrollo-de-productos-nestle-las-condes-fabrica-macul
+2026-06-20 18:08:12,732 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54468/customer-success-intern
+2026-06-20 18:08:12,873 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54436/practica-ingenieria-en-informatica-data-science-soprole-osorno
+2026-06-20 18:08:12,904 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54427/practica-en-trabajo-social-san-bernardo-soprole
+2026-06-20 18:08:12,935 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54357/practica-desarrollo-de-insumos-secos
+2026-06-20 18:08:13,361 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54340/practica-contador-auditor-las-condes
+2026-06-20 18:08:13,424 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54338/practica-en-area-credito-y-cobranzas
+2026-06-20 18:08:13,547 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54324/practica-ingenieria-en-telecomunicaciones-huawei-core-engineer
+2026-06-20 18:08:13,587 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54268/practica-de-contabilidad
+2026-06-20 18:08:13,620 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54202/practica-contabilidad-general
+2026-06-20 18:08:14,047 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54193/accounting-intern
+2026-06-20 18:08:20,192 - firstjob_scraper - INFO - Scrapeando página 17...
+2026-06-20 18:08:20,205 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:08:20,388 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:08:20,600 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54182/practica-en-telecomunicaciones-smartcare-huawei
+2026-06-20 18:08:20,604 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55121/ejecutivo-de-operaciones-comerciales-las-condes-santiago
+2026-06-20 18:08:20,609 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55085/practica-de-gestion-de-personas
+2026-06-20 18:08:20,613 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55035/practica-profesional-area-masivos-santiago
+2026-06-20 18:08:20,618 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55025/practica-en-recursos-humanos
+2026-06-20 18:08:21,436 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55022/adinfluence-practica-ing-comercial-marketing-u-otros-similares
+2026-06-20 18:08:21,470 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55021/practica-profesional-eficiencia-operacional-finanzas-cenco-malls
+2026-06-20 18:08:21,545 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54883/practica-profesional-belleza-ecommerce
+2026-06-20 18:08:21,586 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54878/practica-profesional-marketplace-belleza
+2026-06-20 18:08:21,754 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54840/practica-de-estudios-y-experiencia-de-clientes
+2026-06-20 18:08:21,986 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54834/practica-profesional-gerencia-de-operaciones-y-experiencia-clientes
+2026-06-20 18:08:22,019 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54829/practicante-de-informatica-y-procesos-digitales-nestle-cd-macul
+2026-06-20 18:08:22,062 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54790/practica-de-desarrollo-de-agentes-ia
+2026-06-20 18:08:22,198 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54747/practica-desarrollo-de-agentes-con-ia
+2026-06-20 18:08:22,243 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54739/practica-profesional-area-desarrollo-de-productos-investigacion-y-desarrollo-nestle-macul
+2026-06-20 18:08:22,448 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54671/practica-profesional-relaciones-publicas
+2026-06-20 18:08:22,637 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54667/practica-profesional-proteccion-de-datos
+2026-06-20 18:08:22,700 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54649/practica-profesional-arquitectura-de-datos
+2026-06-20 18:08:22,731 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54639/practica-profesional-area-de-distribucion-logistica-compras-nestle-cd-qulicura
+2026-06-20 18:08:22,942 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54627/practica-profesional-revenue-management
+2026-06-20 18:08:29,224 - firstjob_scraper - INFO - Scrapeando página 18...
+2026-06-20 18:08:29,236 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:08:29,418 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:08:29,630 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54614/practica-profesional-publicidad
+2026-06-20 18:08:29,635 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54462/practica-supply-chain-nestle-cd-quilicura
+2026-06-20 18:08:29,639 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54352/practica-mejora-continua-tpm-ovalle
+2026-06-20 18:08:29,643 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54197/qhse-intern
+2026-06-20 18:08:29,648 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54191/practica-diseno-digital-y-o-grafico
+2026-06-20 18:08:30,526 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54167/practica-profesional-auditoria-interna
+2026-06-20 18:08:30,531 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54165/practica-telecomunicaciones-smartcare-huawei
+2026-06-20 18:08:30,598 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54108/practica-diseno-grafico-wild-lama
+2026-06-20 18:08:30,602 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/52701/practica-distribucion-secundaria-quilicura
+2026-06-20 18:08:30,638 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55012/practica-profesional-canales-digitales
+2026-06-20 18:08:31,127 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54945/practica-recaudacion-y-cobranzas
+2026-06-20 18:08:31,255 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54936/practica-area-it-informatica-la-fete-quilicura
+2026-06-20 18:08:31,294 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54927/practicante-area-informatica-procesos-digitales-nestle-macul
+2026-06-20 18:08:31,328 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54915/practicante-secure-power
+2026-06-20 18:08:31,359 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54907/practica-profesional-area-distribucion-primera-milla-santiago
+2026-06-20 18:08:31,770 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54887/practica-revenue
+2026-06-20 18:08:31,848 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54831/practica-profesional-gestion-comercial
+2026-06-20 18:08:31,926 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54816/practica-gestion-ventas
+2026-06-20 18:08:32,012 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54797/practica-area-de-experiencia-de-clientes
+2026-06-20 18:08:32,046 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54796/practicante-de-periodismo-comunicaciones-nestle-las-condes
+2026-06-20 18:08:38,115 - firstjob_scraper - INFO - Scrapeando página 19...
+2026-06-20 18:08:38,129 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:08:38,305 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:08:38,517 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54795/practica-desarrollo-comercial-las-condes
+2026-06-20 18:08:38,522 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54793/practica-control-de-gestion-y-finanzas-ti-las-condes
+2026-06-20 18:08:38,526 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54788/practica-ingeniero-en-machine-learning-las-condes
+2026-06-20 18:08:38,531 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54781/practica-profesional-en-informatica-las-condes
+2026-06-20 18:08:38,535 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54759/it-support-trainee
+2026-06-20 18:08:39,496 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54754/practica-recursos-humanos-renca
+2026-06-20 18:08:39,530 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54744/practica-en-desarrollo-tecnologico-y-automatizacion-rpa
+2026-06-20 18:08:39,530 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54728/asistente-de-ventas-movicenter-quilicura
+2026-06-20 18:08:39,605 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54674/practica-profesional-experiencia-courier-santiago
+2026-06-20 18:08:39,605 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54665/practica-fidelizacion-y-experiencia-de-clientes-manantial-quilicura
+2026-06-20 18:08:40,263 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54660/practica-profesional-infraestructura-cloud
+2026-06-20 18:08:40,310 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54656/practica-profesional-retail-y-alianzas-banco-ripley
+2026-06-20 18:08:40,342 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54558/marketplace-intern
+2026-06-20 18:08:40,388 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54480/practica-en-contabilidad-ccu-las-condes
+2026-06-20 18:08:40,420 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54474/practica-profesional-relaciones-laborales
+2026-06-20 18:08:40,911 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54470/practica-supply-chain-nestle-cd-en-quilicura
+2026-06-20 18:08:40,942 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54409/practica-area-legal-control-interno
+2026-06-20 18:08:41,005 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54408/practica-profesional-area-auditoria
+2026-06-20 18:08:41,067 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54382/practica-bi-procesos-industriales
+2026-06-20 18:08:41,098 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54364/operador-de-traslados-am
+2026-06-20 18:08:47,259 - firstjob_scraper - INFO - Scrapeando página 20...
+2026-06-20 18:08:47,272 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:08:47,457 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:08:47,669 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54318/practica-disenador-ux-ui
+2026-06-20 18:08:47,675 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54201/practica-consultor-de-tecnologia
+2026-06-20 18:08:47,678 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55134/practica-profesional-gerencia-walmart-digital
+2026-06-20 18:08:47,685 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55118/key-account-manager-logistico
+2026-06-20 18:08:47,685 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54988/practica-profesional-one-way-operaciones
+2026-06-20 18:08:48,588 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54984/practica-profesional-area-logistica-fulfillment-santiago
+2026-06-20 18:08:48,614 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54959/practica-profesional-gav-pudos-santiago
+2026-06-20 18:08:48,680 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54958/practica-profesional-pricing-fulfillment-santiago
+2026-06-20 18:08:48,689 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54947/practica-profesional-area-comercial-ventas-tresmontes-lucchetti
+2026-06-20 18:08:48,756 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54865/practica-analitica-e-inteligencia-de-clientes
+2026-06-20 18:08:49,005 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54815/practica-innovacion-y-desarrollo
+2026-06-20 18:08:49,174 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54811/practica-profesional-infraestructura-renovable
+2026-06-20 18:08:49,283 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54768/practica-en-produccion-industrial-soprole
+2026-06-20 18:08:49,330 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54743/practica-proyectos-logisticos-soprole
+2026-06-20 18:08:49,361 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54738/practica-en-innovacion-de-analcoholes-las-condes
+2026-06-20 18:08:49,411 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54730/practica-mantenimiento
+2026-06-20 18:08:49,577 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54711/practica-ing-comercial-area-comercial-proveedores-pymes
+2026-06-20 18:08:49,671 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54676/practica-profesional-area-torre-de-control-santiago
+2026-06-20 18:08:49,843 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54673/practica-profesional-calidad-de-vida-santiago
+2026-06-20 18:08:49,968 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54653/practica-profesional-control-de-gestion-banco-ripley
+2026-06-20 18:08:56,277 - firstjob_scraper - INFO - Scrapeando página 21...
+2026-06-20 18:08:56,290 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:08:56,473 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:08:56,687 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54652/practica-profesional-ti
+2026-06-20 18:08:56,692 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54622/practica-profesional-marcas-propias-y-exclusivas
+2026-06-20 18:08:56,697 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54586/practica-investigacion-de-mercado-las-condes
+2026-06-20 18:08:56,702 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54585/practica-inteligencia-y-estrategia-de-mercado-las-condes
+2026-06-20 18:08:56,706 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54521/practica-en-inteligencia-y-desarrollo-comercial
+2026-06-20 18:08:57,707 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54419/practica-profesional-ing-industrial-comercial-enfocado-en-informatica-o-ing-tecnico-informatica
+2026-06-20 18:08:57,773 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54396/practica-contabilidad
+2026-06-20 18:08:57,773 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54323/practica-area-ventas-renca
+2026-06-20 18:08:57,816 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54290/practica-en-calidad-y-laboratorio-soprole
+2026-06-20 18:08:57,849 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53948/practica-ingenieria-industrial-o-afines
+2026-06-20 18:08:58,318 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53939/practica-administracion-de-empresas-ifm-huawei
+2026-06-20 18:08:58,350 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53931/practica-ingenieria-comercial-huawei-customer-support
+2026-06-20 18:08:58,397 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53897/creative-web-designer-content-creator-disenador-grafico-web
+2026-06-20 18:08:58,506 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53315/practica-ingenieria-civil-providencia
+2026-06-20 18:08:58,704 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/52537/practica-periodismo-redes-sociales
+2026-06-20 18:08:58,767 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55114/practica-profesional-gerencia-marketing-y-productos
+2026-06-20 18:08:58,814 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55064/practica-en-gestion-comercial-y-analisis-de-ventas-nestle-las-condes
+2026-06-20 18:08:58,907 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55029/practica-de-recursos-humanos
+2026-06-20 18:08:58,964 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55023/practica-ingenieria-comercial-equipo-people-business-partner-gerencia-de-personas
+2026-06-20 18:08:59,140 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55013/quality-assistant
+2026-06-20 18:09:05,137 - firstjob_scraper - INFO - Scrapeando página 22...
+2026-06-20 18:09:05,152 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:09:05,334 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:09:05,546 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54985/practica-profesional-area-proyectos-santiago
+2026-06-20 18:09:05,551 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54982/practica-marketing
+2026-06-20 18:09:05,556 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54972/practicante-area-de-rrhh-don-salva-cencosud
+2026-06-20 18:09:05,560 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54952/programa-de-practicas-gerencia-legal-y-seguridad-corporativa
+2026-06-20 18:09:05,563 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54922/practica-profesional-gerencia-de-asuntos-corporativos
+2026-06-20 18:09:06,483 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54895/practica-en-optimizacion-y-automatizacion-del-negocio
+2026-06-20 18:09:06,550 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54884/practica-planificacion-de-produccion-e-insumos
+2026-06-20 18:09:06,550 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54848/practicante-finanzas-la-fete-quilicura
+2026-06-20 18:09:06,591 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54817/practica-control-de-gestion
+2026-06-20 18:09:06,625 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54774/practica-datos-ti
+2026-06-20 18:09:06,932 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54706/practica-profesional-area-comercial
+2026-06-20 18:09:07,042 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54702/asesor-financiamiento-automotriz-plaza-de-armas
+2026-06-20 18:09:07,073 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54688/practica-comercial-puente-alto
+2026-06-20 18:09:07,193 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54631/practica-profesional-planificacion-comercial
+2026-06-20 18:09:07,302 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54610/practica-profesional-division-mujer
+2026-06-20 18:09:07,349 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54606/disenador-a-de-desarrollo-y-producto-calzado
+2026-06-20 18:09:07,411 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54506/practica-ejecucion-comercial-las-condes
+2026-06-20 18:09:07,507 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54486/practica-para-ingenieria-comercial-ingenieria-civil-industrial-o-profesion-afin
+2026-06-20 18:09:07,750 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54233/practica-profesional-marketing-area-de-diseno-digital-grafico
+2026-06-20 18:09:07,789 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54173/practica-para-ingenieria-comercial-ingenieria-civil-industrial-o-profesion-afin
+2026-06-20 18:09:13,803 - firstjob_scraper - INFO - Scrapeando página 23...
+2026-06-20 18:09:13,817 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:09:14,000 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:09:14,212 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54103/practica-profesional-auditoria-interna
+2026-06-20 18:09:14,217 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54004/practica-profesional-periodismo-audiovisual-area-de-comunicaciones
+2026-06-20 18:09:14,221 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53952/ejecutivo-banca-empresa
+2026-06-20 18:09:14,226 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53890/ejecutivo-de-venta-producto-financiero-r
+2026-06-20 18:09:14,230 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53580/practica-arquitectura-wild-lama
+2026-06-20 18:09:15,128 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/51477/practica-profesional-area-de-calidad
+2026-06-20 18:09:15,163 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55094/talent-acquisition-analyst
+2026-06-20 18:09:15,294 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54963/practica-profesional-area-optimizacion-1-santiago
+2026-06-20 18:09:15,298 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54929/practica-en-operaciones-produccion-soprole
+2026-06-20 18:09:15,650 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54925/practicante-de-periodismo-nestle-las-condes
+2026-06-20 18:09:15,709 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54892/practica-area-de-abastecimiento
+2026-06-20 18:09:15,743 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54841/practica-profesional-gerencia-operaciones-e-commerce
+2026-06-20 18:09:15,783 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54813/practica-en-pricing-revenue-management
+2026-06-20 18:09:15,948 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54809/practica-profesional-data-engineer-tur-com
+2026-06-20 18:09:16,410 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54789/practica-canal-e-commerce-las-condes
+2026-06-20 18:09:16,476 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54787/practica-area-comercial-las-condes
+2026-06-20 18:09:16,480 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54719/practica-profesional-customer-success-tur-com
+2026-06-20 18:09:16,519 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54690/practica-profesional-area-hub-1-centro-de-distribucion-santiago
+2026-06-20 18:09:16,623 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54675/practica-profesional-area-flota-santiago
+2026-06-20 18:09:17,048 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54669/practica-profesional-ing-informatica-gestion-de-datos-compensaciones
+2026-06-20 18:09:23,288 - firstjob_scraper - INFO - Scrapeando página 24...
+2026-06-20 18:09:23,298 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:09:23,503 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:09:23,715 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54633/practica-profesional-marketing-sostenibilidad-y-diversidad
+2026-06-20 18:09:23,720 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54632/practica-profesional-control-de-gestion-marketing
+2026-06-20 18:09:23,725 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54609/practica-profesional-crm-y-growth
+2026-06-20 18:09:23,729 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54565/practica-analista-de-datos-b2b
+2026-06-20 18:09:23,734 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54556/practica-supply-chain-proyectos-reales-y-operacion-nestle
+2026-06-20 18:09:24,750 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54537/practica-ingenieria-comercial-gerencia-de-personas
+2026-06-20 18:09:24,945 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54533/practica-en-inteligencia-y-desarrollo-comercial-las-condes
+2026-06-20 18:09:24,949 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54405/practica-gestion-y-tecnologia
+2026-06-20 18:09:24,953 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54386/operation-maintenance-intern
+2026-06-20 18:09:24,957 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54130/practica-desarrollo-de-producto-wild-lama
+2026-06-20 18:09:25,749 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/52402/practica-e-commerce
+2026-06-20 18:09:25,753 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54978/practicante-remuneraciones
+2026-06-20 18:09:25,819 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54976/administrativo-torre-de-control
+2026-06-20 18:09:25,853 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54957/practica-generalista-de-rrhh
+2026-06-20 18:09:25,858 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54685/practica-grc-gobierno-riesgo-y-cumplimiento-de-ciberseguridad
+2026-06-20 18:09:26,524 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54681/practica-ing-industrial-comercial-economia-administracion-sistemas-de-informacion-o-afines
+2026-06-20 18:09:26,558 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54678/practica-profesional-area-red-puntos-blue-santiago
+2026-06-20 18:09:26,624 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54620/practica-profesional-division-hombre
+2026-06-20 18:09:26,628 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54605/practica-profesional-marketing-ecommerce-seo
+2026-06-20 18:09:26,665 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54580/auditor-a-de-medios
+2026-06-20 18:09:32,755 - firstjob_scraper - INFO - Scrapeando página 25...
+2026-06-20 18:09:32,769 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:09:32,947 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:09:33,163 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54561/practica-transformacion-digital-y-automatizacion-rrhh
+2026-06-20 18:09:33,165 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54528/practicante-ingenieria-civil-gerencia-de-personas
+2026-06-20 18:09:33,172 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54518/practica-para-estudiante-de-ingenieria-civil-industrial-o-carrera-afin
+2026-06-20 18:09:33,174 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54415/practica-merrell
+2026-06-20 18:09:33,182 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54281/practica-profesional-diseno-nestle-macul
+2026-06-20 18:09:34,077 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54215/practica-en-onboarding-comercial-factoring
+2026-06-20 18:09:34,152 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54116/sustainability-intern
+2026-06-20 18:09:34,160 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53904/practica-profesional-administracion-de-empresas-ing-comercial-o-afines
+2026-06-20 18:09:34,260 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/51654/practica-comercial-medios-digitales
+2026-06-20 18:09:34,301 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54995/practica-growth-marketing-wild-foods
+2026-06-20 18:09:34,642 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54916/practicante-comercial
+2026-06-20 18:09:34,673 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54683/practica-profesional-business-intelligence
+2026-06-20 18:09:34,735 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54619/practica-profesional-estudios-y-clientes-marketing
+2026-06-20 18:09:34,735 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54611/practica-profesional-rmedia
+2026-06-20 18:09:34,923 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54570/practica-area-comercial-tiendas-ripley-region-metropilitana
+2026-06-20 18:09:35,079 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54554/practica-supply-chain-automatizacion-python-y-bi-nestle-cd-quilicura
+2026-06-20 18:09:35,183 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54539/practica-comercial-deportes-paris
+2026-06-20 18:09:35,230 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54524/disenador-audiovisual
+2026-06-20 18:09:35,363 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54412/practica-sostenibilidad
+2026-06-20 18:09:35,487 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54390/practica-mantenimiento
+2026-06-20 18:09:41,456 - firstjob_scraper - INFO - Scrapeando página 26...
+2026-06-20 18:09:41,467 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:09:41,640 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:09:41,855 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54356/practica-en-comunicaciones-internas-y-cultura-las-condes
+2026-06-20 18:09:41,858 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54337/practica-profesional-transformacion-comercial
+2026-06-20 18:09:41,865 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54317/practica-inteligencia-de-negocios-y-reporteria
+2026-06-20 18:09:41,868 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54245/practica-de-compras-de-marketing-las-condes
+2026-06-20 18:09:41,874 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54101/practica-planning-logistics-wild-lama
+2026-06-20 18:09:42,670 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53936/practica-ing-civil-industial-informatica-trade-marketing
+2026-06-20 18:09:42,712 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/50129/practica-area-legal-control-interno
+2026-06-20 18:09:42,753 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54987/sales-development-representative-sdr
+2026-06-20 18:09:42,786 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54921/nivea-and-eucern-quality-trainee
+2026-06-20 18:09:42,887 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54876/practica-eventos-especiales
+2026-06-20 18:09:43,125 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54867/practica-analitica-y-soluciones
+2026-06-20 18:09:43,241 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54777/practica-trade-marketing-maipu
+2026-06-20 18:09:43,288 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54709/practica-profesional-gerencia-mantenimiento
+2026-06-20 18:09:43,319 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54687/practica-en-centro-de-personas-las-condes
+2026-06-20 18:09:43,441 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54650/practica-cat-area-comercial
+2026-06-20 18:09:43,503 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54592/practica-contabilidad-wild-lama
+2026-06-20 18:09:43,695 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54527/practica-trade-marketing-canal-moderno
+2026-06-20 18:09:43,811 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54469/practica-profesional-area-bi-belcorp
+2026-06-20 18:09:43,952 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54452/tecnico-de-laboratorio
+2026-06-20 18:09:43,952 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54432/banco-de-talentos-practicas-agrosuper-2026-2-region-valparaiso
+2026-06-20 18:09:50,115 - firstjob_scraper - INFO - Scrapeando página 27...
+2026-06-20 18:09:50,129 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:09:50,305 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:09:50,518 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54384/practica-ejecutiv-de-cuentas-influencer-marketing
+2026-06-20 18:09:50,522 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54366/practica-supply-chain-wild-foods-produccion
+2026-06-20 18:09:50,527 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54365/practica-comercial-wild-foods-canal-tradicional
+2026-06-20 18:09:50,531 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54280/practica-ingenieria-supply-chain-nestle-fabrica-de-cancura
+2026-06-20 18:09:50,536 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54118/cardiometabolic-marketing-intern
+2026-06-20 18:09:51,454 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54077/practica-comercial-grandes-tiendas-y-mayorista-wild-lama
+2026-06-20 18:09:51,488 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54012/practica-profesional-ingenieria-civil-industrial-e-ingenieria-comercial
+2026-06-20 18:09:51,547 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53717/practica-profesional-puntos-cencosud
+2026-06-20 18:09:51,555 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55065/analista-de-contenido-junior
+2026-06-20 18:09:51,588 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55033/practica-marketing-paris
+2026-06-20 18:09:52,088 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54979/trabajo-de-titulo-memoria-planificacion-comercial-industrial
+2026-06-20 18:09:52,162 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54950/planogramador-a-junior
+2026-06-20 18:09:52,209 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54891/practica-en-data-y-analisis-de-riesgos
+2026-06-20 18:09:52,240 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54890/practica-en-data-y-automatizacion-financiera
+2026-06-20 18:09:52,272 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54786/practica-profesional-comunicaciones-internas-responsabilidad-social-empresarial
+2026-06-20 18:09:52,725 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54668/practica-control-gestion-de-inventarios-cencosud
+2026-06-20 18:09:52,766 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54531/practica-marketing-cat
+2026-06-20 18:09:52,856 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54398/practica-profesional-loyalty-cencosud
+2026-06-20 18:09:52,898 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54354/practica-comercial-y-analisis-puntos-de-venta-las-condes
+2026-06-20 18:09:52,930 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54330/practica-profesional-transformacion-comercial
+2026-06-20 18:09:59,042 - firstjob_scraper - INFO - Scrapeando página 28...
+2026-06-20 18:09:59,056 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:09:59,238 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:09:59,461 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54260/practica-customer-service-supermercados
+2026-06-20 18:09:59,465 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54219/practica-customer-service-supermercados
+2026-06-20 18:09:59,470 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54073/practica-profesional-gerencia-de-marketing-comunicaciones
+2026-06-20 18:09:59,474 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53831/practica-marketing-manantial-quilicura
+2026-06-20 18:09:59,479 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53358/practica-conciliaciones-bancarias-las-condes
+2026-06-20 18:10:00,448 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/52525/practica-area-operaciones-renca
+2026-06-20 18:10:00,481 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/51582/practica-business-intelligence
+2026-06-20 18:10:00,547 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55089/product-manager-jr
+2026-06-20 18:10:00,547 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55001/practica-profesional-subgerencia-de-operaciones-y-abast
+2026-06-20 18:10:00,699 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54906/practica-trade-marketing-cervezas
+2026-06-20 18:10:01,048 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54849/practicante-recursos-humanos-la-fete-quilicura
+2026-06-20 18:10:01,072 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54806/practica-carozzi-area-innovacion
+2026-06-20 18:10:01,118 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54672/practica-profesional-comunicaciones
+2026-06-20 18:10:01,150 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54532/practica-hush-puppies
+2026-06-20 18:10:01,181 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54440/practicante-operaciones-logisticas-nestle-cd-de-quilicura
+2026-06-20 18:10:01,855 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54435/banco-de-talentos-practicas-agrosuper-2026-2-region-antofagasta-magallanes-los-lagos-la-araucania-la-biobio-coquimbo
+2026-06-20 18:10:01,917 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54424/practica-de-comunicaciones-marketing
+2026-06-20 18:10:01,921 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54345/p-ractica-profesional-ing-y-o-tecnico-en-administracion-de-empresas
+2026-06-20 18:10:01,957 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54283/practica-profesional-recursos-humanos-nestle-san-fernando
+2026-06-20 18:10:02,134 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54267/practica-profesional-area-comercial
+2026-06-20 18:10:08,177 - firstjob_scraper - INFO - Scrapeando página 29...
+2026-06-20 18:10:08,189 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:10:08,369 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:10:08,578 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54225/practica-profesional-area-operaciones
+2026-06-20 18:10:08,587 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54211/practica-ingenieria-comercial-huawei-procurement
+2026-06-20 18:10:08,591 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54010/practica-crm-lider-bci
+2026-06-20 18:10:08,595 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53951/practica-profesional-marketing-ing-comercial
+2026-06-20 18:10:08,599 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/51192/practica-periodismo-marketing-redes-sociales
+2026-06-20 18:10:09,562 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/50843/practica-marketing-la-preferida-san-jorge
+2026-06-20 18:10:09,566 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/32222/practica-profesional-internet-area-gestion-y-pmo
+2026-06-20 18:10:09,666 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55041/practica-marketing-gaseosas
+2026-06-20 18:10:09,670 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54956/practica-profesional-administracion-de-empresas-nestle-las-condes
+2026-06-20 18:10:09,674 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54889/practica-en-machine-learning-y-analitica-avanzada
+2026-06-20 18:10:10,171 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54875/practica-marketplace-paris
+2026-06-20 18:10:10,307 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54851/practica-auditoria-interna-y-riesgos
+2026-06-20 18:10:10,345 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54717/practica-gestion-de-riesgo-operacional
+2026-06-20 18:10:10,380 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54636/practica-data-engineering-wild-lama
+2026-06-20 18:10:10,430 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54607/practica-profesional-marketing-alianzas
+2026-06-20 18:10:10,814 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54602/practica-marketing-ingenieria-comercial-marketing-publicidad-comunicaciones
+2026-06-20 18:10:10,864 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54582/reemplazo-de-pre-y-post-natal-asistente-de-auditoria-de-medios
+2026-06-20 18:10:10,985 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54535/practica-tarjetas-alianzas
+2026-06-20 18:10:11,048 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54522/practica-profesional-area-retail
+2026-06-20 18:10:11,107 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54498/test-engineer-intern
+2026-06-20 18:10:17,491 - firstjob_scraper - INFO - Scrapeando página 30...
+2026-06-20 18:10:17,503 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:10:17,684 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:10:17,895 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54434/banco-de-talentos-practicas-agrosuper-2026-2-region-o-higgins
+2026-06-20 18:10:17,900 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54370/desarrollador-practica-profesional-en-area-de-agilidad
+2026-06-20 18:10:17,904 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54327/practica-area-comercial
+2026-06-20 18:10:17,908 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54319/practica-desarrollo-de-personas-y-organizaciones-renca
+2026-06-20 18:10:17,912 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54259/practicante-de-creacion-de-contenido-para-verken-kaut
+2026-06-20 18:10:18,657 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54248/practica-delivery-transformation-mineria-advisory
+2026-06-20 18:10:18,733 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54110/practica-sostenibilidad-wild-lama
+2026-06-20 18:10:18,765 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54083/practica-profesional-publicista-social-media
+2026-06-20 18:10:18,799 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54079/practica-comercial-producto-wild-lama
+2026-06-20 18:10:18,840 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54078/practica-comercial-retail-wild-lama
+2026-06-20 18:10:19,295 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/52951/practica-logistica-talcahuano
+2026-06-20 18:10:19,326 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54905/practica-profesional-area-marketing-consumo
+2026-06-20 18:10:19,358 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54870/practica-en-gestion-y-mejora-de-procesos
+2026-06-20 18:10:19,435 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54869/practica-en-data-y-automatizacion
+2026-06-20 18:10:19,482 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54852/tu-practica-en-marketing-empieza-en-watt-s
+2026-06-20 18:10:19,685 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54810/practica-profesional-data-analyst-jr-tur-com
+2026-06-20 18:10:20,089 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54682/practica-en-marketing-de-influencers
+2026-06-20 18:10:20,155 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54640/practicas-profesionales-area-ingenieria-en-informacion-y-control-de-gestion-nestle-las-condes
+2026-06-20 18:10:20,155 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54569/practica-profesional-analista-desarrollo-de-productos
+2026-06-20 18:10:20,311 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54509/practica-profesional-publicista-social-media
+2026-06-20 18:10:27,368 - firstjob_scraper - INFO - Scrapeando página 31...
+2026-06-20 18:10:27,383 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:10:27,594 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:10:27,821 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54476/practica-profesional-compras-estrategicas
+2026-06-20 18:10:27,825 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54018/practica-marketing-o-comercial-area-de-ventas
+2026-06-20 18:10:27,829 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54008/practica-ciberseguridad-ti-advisory
+2026-06-20 18:10:27,834 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53976/practica-datos-maestros
+2026-06-20 18:10:27,838 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53894/practica-ingenieria-informatica-redes-sistemas-o-afin
+2026-06-20 18:10:28,808 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53868/practica-comercial-wild-foods-supermercados
+2026-06-20 18:10:28,843 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53800/practica-area-de-bodega-mkt-administrativo
+2026-06-20 18:10:28,913 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/46737/practica-ingenieria-en-prevencion-de-riesgos-o-medio-ambiente
+2026-06-20 18:10:29,001 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55099/analista-control-de-gestion-jr
+2026-06-20 18:10:29,231 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54989/practica-profesional-analisis-de-variaciones-de-margen-control-de-gestion-programa-go
+2026-06-20 18:10:29,297 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54893/growth-marketing-analyst
+2026-06-20 18:10:29,425 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54833/practica-en-atraccion-de-talento-nestle-oc-macul
+2026-06-20 18:10:29,456 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54699/practica-marketing-aguas-mas-y-manantial-las-condes
+2026-06-20 18:10:29,612 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54677/practica-compras-supply-chain-programa-de-practicas-impulsa-tu-talento
+2026-06-20 18:10:29,644 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54599/practica-automatizacion-de-procesos-de-auditoria-agosto-2026
+2026-06-20 18:10:29,722 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54597/practica-proyectos-transversales-de-automatizacion-y-digitalizacion-de-riesgos-agosto-2026
+2026-06-20 18:10:29,847 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54576/practica-area-de-recursos-humanos-tiendas-ripley-region-metropolitana
+2026-06-20 18:10:29,909 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54573/practica-automatizacion-y-control-vpe-p-c-agosto-2026
+2026-06-20 18:10:30,045 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54536/practica-ecommerce
+2026-06-20 18:10:30,123 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54497/trading-consultant-intern
+2026-06-20 18:10:36,020 - firstjob_scraper - INFO - Scrapeando página 32...
+2026-06-20 18:10:36,032 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:10:36,204 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:10:36,418 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54492/practica-marketing-vopero
+2026-06-20 18:10:36,421 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54335/practica-en-control-y-gestion-de-activos
+2026-06-20 18:10:36,426 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54296/practica-administracion-de-recursos-humanos
+2026-06-20 18:10:36,430 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54292/practica-en-diseno-corporativo-soprole
+2026-06-20 18:10:36,434 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54229/practica-redactor-creativo-influencer-marketing
+2026-06-20 18:10:37,400 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55009/programa-de-practicas-arcoprime-retail-de-copec
+2026-06-20 18:10:37,408 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54872/practica-en-ia-y-desarrollo-de-software
+2026-06-20 18:10:37,499 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54857/practica-profesional-area-comercial
+2026-06-20 18:10:37,508 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54766/validador-automotriz
+2026-06-20 18:10:37,508 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54704/desarrollador-de-software-junior
+2026-06-20 18:10:38,233 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54689/reemplazo-pre-y-post-natal-analista-entrenamiento
+2026-06-20 18:10:38,358 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54538/practica-profesional-marcas-propias-vestuario-decohogar
+2026-06-20 18:10:38,358 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54479/practica-profesional-ciberseguridad
+2026-06-20 18:10:38,374 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54380/practica-proyectos-digitales
+2026-06-20 18:10:38,374 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54320/practica-area-comercial-la-barra-las-condes
+2026-06-20 18:10:38,810 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54306/practica-de-desarrollador-de-marketing
+2026-06-20 18:10:38,997 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54170/practica-analitica-digital-cencosud
+2026-06-20 18:10:39,044 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54037/practica-comunicaciones-internas
+2026-06-20 18:10:39,076 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53923/practica-profesional-gerencia-de-operaciones
+2026-06-20 18:10:39,119 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/47623/practica-profesional-desarrollo-informatico
+2026-06-20 18:10:45,424 - firstjob_scraper - INFO - Scrapeando página 33...
+2026-06-20 18:10:45,438 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:10:45,619 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:10:45,834 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54983/insights-intern
+2026-06-20 18:10:45,839 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54941/customer-success-executive
+2026-06-20 18:10:45,843 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54908/analista-compensaciones-reemplazo-pre-y-post-natal
+2026-06-20 18:10:45,848 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54894/practica-en-control-y-gestion-financiera
+2026-06-20 18:10:45,852 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54886/practica-en-trade-marketing-sumate-a-watt-s
+2026-06-20 18:10:46,722 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54736/practica-marketing-cachantun
+2026-06-20 18:10:46,753 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54478/practica-marketing-gatorade-lipton-y-rockstar-las-condes
+2026-06-20 18:10:46,789 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54410/practica-profesional-en-riesgo-tecnologico
+2026-06-20 18:10:46,825 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54358/practica-area-comercial-vina-del-mar
+2026-06-20 18:10:46,995 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54272/practica-en-operaciones-produccion-soprole
+2026-06-20 18:10:47,271 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/52921/practica-ingenieria-comercial-ecommerce-verken-kaut
+2026-06-20 18:10:47,304 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55129/programa-internship-l-oreal-chile-practica-marketing
+2026-06-20 18:10:47,337 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54807/practica-ingenieria-comercial
+2026-06-20 18:10:47,409 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54783/practica-marketing-e-commerce-la-barra-las-condes
+2026-06-20 18:10:47,441 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54758/programa-de-practicas-gerencia-de-omnichannel-supply-chain
+2026-06-20 18:10:47,999 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54741/practica-profesional-comunicaciones-internas-nestle-las-condes
+2026-06-20 18:10:48,098 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54729/operate-consultant
+2026-06-20 18:10:48,098 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54623/integrations-consultant
+2026-06-20 18:10:48,098 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54594/practica-comercial-cencosud-media
+2026-06-20 18:10:48,145 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54346/practica-profesional-analisis-de-creditos-tecnico-en-finanzas-o-carrera-a-fin
+2026-06-20 18:10:54,622 - firstjob_scraper - INFO - Scrapeando página 34...
+2026-06-20 18:10:54,634 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:10:54,811 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:10:55,022 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54331/practica-trade-marketing-canal-tradicional-las-condes
+2026-06-20 18:10:55,028 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54106/practica-desarrollador-fullstack-innovacion-ia
+2026-06-20 18:10:55,031 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54028/practica-ingenieria-en-logistica-e-ingenieria-civil-industrial-supply-chain-huawei
+2026-06-20 18:10:55,037 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53843/practica-operaciones-canal-supermercado
+2026-06-20 18:10:55,040 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54928/practica-en-logistica-soprole-renca
+2026-06-20 18:10:55,941 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54854/practica-en-gestion-comercial-y-analisis-de-ventas-nestle-las-condes
+2026-06-20 18:10:56,008 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54761/administrativo-de-recupero-intercompania
+2026-06-20 18:10:56,012 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54746/programa-femsa-salud-starters-practicas-y-proyectos-de-titulo-memoria-2026
+2026-06-20 18:10:56,050 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54727/practica-ingenieria-civil-industrial-o-afin-gerencia-de-operaciones
+2026-06-20 18:10:56,134 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54698/practica-marketing-bilz-y-pap-las-condes
+2026-06-20 18:10:56,351 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54529/practica-finanzas-area-ingresos
+2026-06-20 18:10:56,484 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54428/practica-marketing-cerveza-sol
+2026-06-20 18:10:56,516 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54355/practica-profesional-trade-marketing-cpch
+2026-06-20 18:10:56,579 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54336/practica-trade-marketing-canal-consumo-las-condes
+2026-06-20 18:10:56,736 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54329/practica-marketing-cerveza-royal-guard
+2026-06-20 18:10:56,768 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54294/practica-profesional-logistica
+2026-06-20 18:10:56,907 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54980/planner-retail-media
+2026-06-20 18:10:57,012 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54896/practica-en-modelos-predictivos-y-machine-learning
+2026-06-20 18:10:57,105 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54794/practica-comercial-jugos-y-nectares-las-condes
+2026-06-20 18:10:57,135 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54712/practica-kam-supermercados
+2026-06-20 18:11:03,216 - firstjob_scraper - INFO - Scrapeando página 35...
+2026-06-20 18:11:03,230 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:11:03,409 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:11:03,621 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54708/practica-trade-marketing-cuentas-claves-y-canal-multicategoria
+2026-06-20 18:11:03,626 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54414/practica-columbia
+2026-06-20 18:11:03,630 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54351/practica-aprovisionamiento-y-logistica
+2026-06-20 18:11:03,634 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54325/banco-de-talentos-practica-huawei
+2026-06-20 18:11:03,639 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54284/practica-en-logistica-soprole
+2026-06-20 18:11:04,516 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53865/ingeniero-a-tpm-antofagasta
+2026-06-20 18:11:04,563 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55100/ejecutivo-trainee
+2026-06-20 18:11:04,602 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54694/practica-profesional-area-desarrollo-organizacional-santiago
+2026-06-20 18:11:04,692 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54613/practica-profesional-rrhh
+2026-06-20 18:11:04,869 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54540/banco-de-talentos-practica-huawei
+2026-06-20 18:11:04,920 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54530/practica-comercial-l-occitane
+2026-06-20 18:11:05,118 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54451/packaging-analyst
+2026-06-20 18:11:05,250 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54387/practica-longtail-smbs-mercado-pago-longtail-smbs
+2026-06-20 18:11:05,336 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54326/practica-marketing-cervezas-coors-original-las-condes
+2026-06-20 18:11:05,340 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53818/practica-profesional-en-operaciones-procesos-y-automatizacion
+2026-06-20 18:11:05,377 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/48818/practica-profesional-en-equipos-de-planificacion-de-medios
+2026-06-20 18:11:05,503 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54901/practica-profesional-marketing
+2026-06-20 18:11:05,852 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54873/practica-comercial-belleza
+2026-06-20 18:11:05,875 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54417/dibujante-proyectista
+2026-06-20 18:11:05,906 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54304/practica-copec-flux-area-comercio-exterior
+2026-06-20 18:11:12,324 - firstjob_scraper - INFO - Scrapeando página 36...
+2026-06-20 18:11:12,336 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:11:12,515 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:11:12,730 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53995/integrations-consultant
+2026-06-20 18:11:12,733 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/46738/practica-profesional-recursos-humanos-en-area-de-remuneraciones
+2026-06-20 18:11:12,739 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54973/consultor-a-atraccion-de-talentos
+2026-06-20 18:11:12,743 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54898/practica-manufactura-julio-2026-programa-de-practicas-unilever
+2026-06-20 18:11:12,747 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54835/practica-profesional-gestion-de-personas
+2026-06-20 18:11:13,688 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54696/customer-service-reservations-specialist-especialista-en-atencion-al-cliente-y-reservas
+2026-06-20 18:11:13,757 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54686/practica-recursos-humanos-huawei
+2026-06-20 18:11:13,762 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54571/practica-automatizacion-de-procesos-y-tareas-de-gestion-de-fraude-agosto-2026
+2026-06-20 18:11:13,792 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54548/practica-profesional-analisis-de-variaciones-de-margen-control-de-gestion-programa-go
+2026-06-20 18:11:13,891 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54207/practica-supply-chain-wild-foods-warehouse-logistics
+2026-06-20 18:11:14,260 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53812/practica-performance-marketing
+2026-06-20 18:11:14,293 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55014/practica-psicologia-organizacional-analista-de-atraccion-y-do
+2026-06-20 18:11:14,333 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54951/practica-comercial-fintech-mercado-pago-big-sellers
+2026-06-20 18:11:14,374 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54943/practica-profesional-area-rrhh-training-nestle-las-condes
+2026-06-20 18:11:14,475 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54733/practica-en-cultura-organizacional-y-marca-empleadora
+2026-06-20 18:11:14,698 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54635/practica-profesional-marketing-redes-sociales
+2026-06-20 18:11:14,791 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54598/practica-proyecto-de-plataforma-confirming-global-agosto-2026
+2026-06-20 18:11:14,894 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54552/practica-finanzas-tesoreria-y-gestion-de-pagos-nestle-oc-las-condes
+2026-06-20 18:11:14,996 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54172/practica-profesional-analisis-y-visualizacion-de-datos-gerencia-estudios-y-politicas-publicas-cchc
+2026-06-20 18:11:15,104 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53937/ejecutivo-a-de-grandes-empresas-manantial-vina-del-mar
+2026-06-20 18:11:21,283 - firstjob_scraper - INFO - Scrapeando página 37...
+2026-06-20 18:11:21,295 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:11:21,475 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:11:21,684 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54714/practica-reclutamiento-y-seleccion-gestion-de-personas-2-semestre-2026
+2026-06-20 18:11:21,691 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54491/analista-contable
+2026-06-20 18:11:21,693 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54287/practica-en-abastecimiento-logistica-soprole
+2026-06-20 18:11:21,699 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54000/test-engineer-consultant
+2026-06-20 18:11:21,702 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53826/practica-marketing
+2026-06-20 18:11:22,587 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53287/practica-data-analytics
+2026-06-20 18:11:22,622 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54868/practica-nuevo-modelos-de-negocio
+2026-06-20 18:11:22,654 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54725/practica-de-ingenieria-comercial-gerencia-de-personas
+2026-06-20 18:11:22,688 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54691/no-tienes-experiencia-en-ventas-forus-te-ensena
+2026-06-20 18:11:22,755 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54560/auditor-a-de-riesgos-no-financieros
+2026-06-20 18:11:22,959 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54555/practica-supply-chain-data-y-power-bi-nestle-oc-las-condes
+2026-06-20 18:11:23,192 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53113/practica-administracion-del-personal-gestion-de-personas
+2026-06-20 18:11:23,302 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54986/economista-bice-inversiones
+2026-06-20 18:11:23,417 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54625/trading-consultant
+2026-06-20 18:11:23,421 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54392/ejecutivo-comercial
+2026-06-20 18:11:23,458 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54367/programa-internship-l-oreal-chile-practica-finanzas-cdg-san-bernardo
+2026-06-20 18:11:23,584 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54307/practica-de-control-de-procesos-financieros
+2026-06-20 18:11:23,935 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54293/practica-en-automatizacion-de-procesos-rrhh-soprole
+2026-06-20 18:11:23,971 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54271/practica-en-customer-service-soprole
+2026-06-20 18:11:24,005 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54919/ingeniero-a-entrenamiento
+2026-06-20 18:11:30,218 - firstjob_scraper - INFO - Scrapeando página 38...
+2026-06-20 18:11:30,233 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:11:30,401 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:11:30,616 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54802/pratica-people-culture
+2026-06-20 18:11:30,620 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54740/practica-profesional-area-rrhh-administracion-nestle-las-condes
+2026-06-20 18:11:30,626 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54726/practica-ingenieria-comercial-o-afin-gerencia-comercial
+2026-06-20 18:11:30,631 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54720/practicante-comercial-equipo-electro-y-temporadas
+2026-06-20 18:11:30,635 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54697/practica-profesional-atraccion-de-talento
+2026-06-20 18:11:31,675 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54328/trading-consultant
+2026-06-20 18:11:31,711 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/48034/practica-profesional-en-equipos-de-planificacion-de-medios
+2026-06-20 18:11:31,774 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/14396/practica-ing-industrial-programacion-de-la-produccion-quilicura
+2026-06-20 18:11:31,778 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55092/analista-comercial
+2026-06-20 18:11:31,956 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54997/analista-de-reclutamiento-y-marca-empleadora-chile
+2026-06-20 18:11:32,229 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54888/practica-en-finanzas-y-proyeccion-de-negocio
+2026-06-20 18:11:32,350 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54713/analista-de-control-de-inversiones-gerencia-de-finanzas
+2026-06-20 18:11:32,416 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54629/practica-profesional-marketing-belleza
+2026-06-20 18:11:32,420 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54515/staff-tech-risk-industria-financiera
+2026-06-20 18:11:32,486 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54502/practica-de-transformacion-digital-e-ia-generativa-soprole
+2026-06-20 18:11:32,676 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54393/practica-people-rrhh
+2026-06-20 18:11:32,921 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54334/practica-profesional-marketing-heineken
+2026-06-20 18:11:32,951 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54291/practica-en-comunicaciones-internas-soprole
+2026-06-20 18:11:32,988 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/47651/practica-profesional-arquitectura-ti
+2026-06-20 18:11:33,099 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53898/creative-web-designer-content-creator-disenador-grafico-web
+2026-06-20 18:11:39,302 - firstjob_scraper - INFO - Scrapeando página 39...
+2026-06-20 18:11:39,317 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:11:39,497 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:11:39,711 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/50427/practica-profesional-continuidad-operacional-y-portafolio-ti
+2026-06-20 18:11:39,715 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54413/practica-finanzas-y-relacion-con-inversionistas
+2026-06-20 18:11:39,720 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54411/practica-profesional-compliance-risk-management
+2026-06-20 18:11:39,724 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54402/ejecutivo-de-operaciones-y-experiencia
+2026-06-20 18:11:39,729 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54080/practica-growth-marketing-wild-lama
+2026-06-20 18:11:40,534 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54981/analista-de-compensaciones
+2026-06-20 18:11:40,573 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54778/coordinador-a-proyectos-retail
+2026-06-20 18:11:40,638 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54494/analista-de-control-interno-gestion-de-riesgos-presencial
+2026-06-20 18:11:40,672 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54822/practica-atraccion-de-talento
+2026-06-20 18:11:40,861 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54757/practica-profesional-gerencia-de-finanzas-e-inmobiliaria
+2026-06-20 18:11:41,305 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54641/practica-profesional-area-e-commerce-nestle-oc-las-condes
+2026-06-20 18:11:41,414 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54574/practica-marketing-alimentos-infantiles-data-estrategia-nestle
+2026-06-20 18:11:41,418 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54557/practica-procesos-y-finanzas-optimizacion-y-data-nestle-las-condes
+2026-06-20 18:11:41,452 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54512/sales-development-representative-sdr-area-comercial-ventas
+2026-06-20 18:11:41,488 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53886/analista-de-cobranzas
+2026-06-20 18:11:41,731 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54483/analista-de-desarrollo-de-proyectos-comerciales
+2026-06-20 18:11:41,810 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54227/practica-de-recursos-humanos-schneider-electric-chile
+2026-06-20 18:11:42,059 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54133/analista-de-operaciones-masivo-con-experiencia
+2026-06-20 18:11:42,114 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55000/practica-profesional-en-el-equipo-gestion-de-talento
+2026-06-20 18:11:42,150 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54767/ingeniero-de-automatizacion
+2026-06-20 18:11:48,343 - firstjob_scraper - INFO - Scrapeando página 40...
+2026-06-20 18:11:48,355 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:11:48,526 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:11:48,737 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54371/practica-para-el-equipo-de-marketplace-cpg
+2026-06-20 18:11:48,746 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54716/practica-atraccion-de-talento-y-marca-empleadora-octubre-2026-a-marzo-2027
+2026-06-20 18:11:48,751 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54495/analista-estudios-presencial-las-condes
+2026-06-20 18:11:48,754 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54315/practica-rrhh-ing-o-tecnico-en-rrhh
+2026-06-20 18:11:48,760 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54385/practica-credits-mercado-pago
+2026-06-20 18:11:49,698 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54373/practica-para-el-equipo-vis-real-estate-analisis-de-datos
+2026-06-20 18:11:49,734 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54126/practica-de-formacion-las-condes
+2026-06-20 18:11:49,766 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/49958/tu-primera-experiencia-profesional-comienza-en-tanner
+2026-06-20 18:11:49,798 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54803/implementation-specialist-junior
+2026-06-20 18:11:49,976 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54375/practica-para-el-equipo-vis-real-estate-automatizacion
+2026-06-20 18:11:50,092 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54295/practica-en-diversidad-e-inclusion-laboral-rrhh-soprole
+2026-06-20 18:11:50,216 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54966/analista-customer-insights
+2026-06-20 18:11:50,249 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54804/practica-de-psicologia-para-el-area-de-recursos-humanos-en-spid
+2026-06-20 18:11:50,414 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54710/customer-success-analyst
+2026-06-20 18:11:50,449 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54642/practicas-finanzas-nestle-oc-las-condes
+2026-06-20 18:11:50,484 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54500/account-executive
+2026-06-20 18:11:50,688 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54837/practica-en-marketing-y-proyectos-nestle-las-condes
+2026-06-20 18:11:50,693 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54651/practica-profesional-marketing-digital-nestle-las-condes
+2026-06-20 18:11:50,876 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54507/ejecutivo-de-ventas
+2026-06-20 18:11:50,910 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54374/practica-para-el-equipo-vis-real-estate-marketing
+2026-06-20 18:11:56,844 - firstjob_scraper - INFO - Scrapeando página 41...
+2026-06-20 18:11:56,857 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:11:57,031 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:11:57,245 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54513/ejecutivo-de-desarrollo-de-ventas-sdr
+2026-06-20 18:11:57,249 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54378/practica-para-el-equipo-de-admin-control-fp-a
+2026-06-20 18:11:57,253 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54897/practica-en-talento-y-desarrollo-organizacional
+2026-06-20 18:11:57,258 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54472/practica-profesional-desarrollo-organizacional
+2026-06-20 18:11:57,262 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54433/banco-de-talentos-practicas-agrosuper-2026-2-region-metropolitana
+2026-06-20 18:11:58,258 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54305/practica-desarrollo-organizacional-las-condes
+2026-06-20 18:11:58,354 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53889/analista-de-seleccion-con-experiencia
+2026-06-20 18:11:58,359 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/52942/practica-desarrollo-de-personas-y-organizaciones-dpo-las-condes
+2026-06-20 18:11:58,363 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54944/analista-procurement
+2026-06-20 18:11:58,400 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54798/coordinador-a-de-reclutamiento-y-seleccion
+2026-06-20 18:11:58,981 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54473/practica-profesional-atraccion-de-talentos
+2026-06-20 18:11:59,015 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54205/practica-people-culture-wild-lama
+2026-06-20 18:11:59,051 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53989/practica-marketing-alcoholes
+2026-06-20 18:11:59,085 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54448/santander-future-talents-retail-graduate-program-chile
+2026-06-20 18:11:59,151 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54394/analista-contable-trainee-las-condes
+2026-06-20 18:11:59,773 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54273/practica-en-ventas-soprole
+2026-06-20 18:11:59,837 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54153/practica-atraccion-de-talento
+2026-06-20 18:11:59,842 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54162/practica-desarrollo-organizacional-y-people-analytics-gestion-de-personas-2-semestre-2026
+2026-06-20 18:11:59,876 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53963/full-stack-engineer
+2026-06-20 18:11:59,912 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54303/practica-copec-flux-ingenieria-comercial
+2026-06-20 18:12:06,421 - firstjob_scraper - INFO - Scrapeando página 42...
+2026-06-20 18:12:06,435 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:12:06,607 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:12:06,820 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54616/practica-reclutamiento-y-seleccion
+2026-06-20 18:12:06,825 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53885/disenador-grafico
+2026-06-20 18:12:06,829 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54845/talent-culture-analyst
+2026-06-20 18:12:06,834 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54644/practica-profesional-marketing-ventas-nestle-las-condes
+2026-06-20 18:12:06,838 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53975/disenador-a-gerencia-de-marketing
+2026-06-20 18:12:07,785 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54735/ingeniero-a-de-planificacion-distribucion-quilicura
+2026-06-20 18:12:07,847 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54443/practica-profesional-marketing-stills
+2026-06-20 18:12:07,853 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54113/practica-atraccion-de-talento
+2026-06-20 18:12:07,886 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54977/ingeniero-de-planificacion-y-excelencia
+2026-06-20 18:12:07,922 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54780/talent-culture-assistant
+2026-06-20 18:12:08,574 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54444/ingeniero-de-procesos-renaca
+2026-06-20 18:12:08,610 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54300/practicante-desarrollo-organizacional-subgerencia-de-personas
+2026-06-20 18:12:08,725 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53827/people-and-culture-trainee
+2026-06-20 18:12:08,759 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54608/especialista-de-contenido-y-posicionamiento-de-medios
+2026-06-20 18:12:08,792 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54578/ingeniero-a-de-procesos-quilicura
+2026-06-20 18:12:09,213 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54471/programa-internship-l-oreal-chile-practica-control-de-gestion-finanzas
+2026-06-20 18:12:09,337 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54760/programa-de-practica-consultoria-2026
+2026-06-20 18:12:09,377 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54541/intern-operaciones
+2026-06-20 18:12:09,407 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54297/comprador-comercial
+2026-06-20 18:12:09,540 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54372/practica-para-el-equipo-de-marketplace
+2026-06-20 18:12:17,245 - firstjob_scraper - INFO - Scrapeando página 43...
+2026-06-20 18:12:17,260 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:12:17,436 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:12:17,648 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54278/practicas-profesionales-area-comercial-analisis-de-datos-nestle-chile
+2026-06-20 18:12:17,653 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54276/practica-profesional-area-finanzas-nestle-las-condes
+2026-06-20 18:12:17,657 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54517/asistente-de-administracion-y-finanzas
+2026-06-20 18:12:17,662 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54377/especialista-jr-de-riesgo-mercado
+2026-06-20 18:12:17,667 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54220/programa-internship-l-oreal-chile-practica-area-comunicaciones
+2026-06-20 18:12:18,481 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54403/practica-bice-inversiones-area-de-economia-y-estrategia
+2026-06-20 18:12:18,516 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54449/programa-internship-l-oreal-chile-practica-eccommerce
+2026-06-20 18:12:18,598 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54279/practica-profesional-area-marketing-y-ventas-nestle-las-condes
+2026-06-20 18:12:18,632 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54583/media-assistant
+2026-06-20 18:12:18,697 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54288/practica-en-marketing-soprole
+2026-06-20 18:12:18,957 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54648/programa-de-practicas-2do-semestre-blue-express-copec
+2026-06-20 18:12:19,076 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54545/programa-internship-l-oreal-chile-practica-area-comercial
+2026-06-20 18:12:19,150 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54516/consultor-a-junior-technology-risk-assurance
+2026-06-20 18:12:19,226 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54104/product-owner
+2026-06-20 18:12:19,285 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53813/paid-media-manager
+2026-06-20 18:12:19,410 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54214/technical-trainee
+2026-06-20 18:12:19,610 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54282/practica-profesional-area-de-recursos-humanos-people-services-las-condes
+2026-06-20 18:12:19,704 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54707/analista-comercial
+2026-06-20 18:12:19,735 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54596/practica-profesional-en-inversiones-y-analisis-financiero-estudios-buyside
+2026-06-20 18:12:19,813 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53946/procurement-trainee
+2026-06-20 18:12:25,914 - firstjob_scraper - INFO - Scrapeando página 44...
+2026-06-20 18:12:25,928 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:12:26,201 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:12:26,412 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54164/analista-operaciones
+2026-06-20 18:12:26,417 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54383/ejecutivo-de-operaciones-comerciales-las-condes-santiago
+2026-06-20 18:12:26,421 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54076/analista-de-planificacion
+2026-06-20 18:12:26,425 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53908/analista-de-operaciones-comerciales
+2026-06-20 18:12:26,430 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54750/analista-de-riesgo-de-credito-empresas
+2026-06-20 18:12:27,301 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54277/practica-reclutamiento-y-seleccion-ing-comercial-psicologia-nestle-macul-las-condes
+2026-06-20 18:12:27,336 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54670/ingeniero-a-control-de-gestion-financiero-las-condes
+2026-06-20 18:12:27,383 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54376/programa-internship-l-oreal-chile-practica-marketing
+2026-06-20 18:12:27,417 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54023/ejecutivo-de-cuentas-en-formacion-division-corporativa
+2026-06-20 18:12:27,450 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53857/analista-de-operaciones-ing-comercial-o-civil-industrial
+2026-06-20 18:12:27,782 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54213/commercial-trainee
+2026-06-20 18:12:27,800 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54350/kas-ventas
+2026-06-20 18:12:27,922 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54439/analista-control-de-gestion-junior
+2026-06-20 18:12:28,016 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54442/ingeniero-comercial-trainee-san-bernardo
+2026-06-20 18:12:28,141 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53983/ingeniero-a-de-trade-marketing-canal-tradicional-las-condes
+2026-06-20 18:12:28,317 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/46511/kam
+2026-06-20 18:12:28,339 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54274/programa-de-practicas-bci-agosto-2026
+2026-06-20 18:12:28,480 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54421/programa-de-practicas-fresh-minds-2026
+2026-06-20 18:12:28,629 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54624/programa-jovenes-profesionales-itau-empresas
+2026-06-20 18:12:28,707 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53318/beca-santander-future-talents-tu-primer-paso-al-mundo-laboral
+2026-06-20 18:12:34,922 - firstjob_scraper - INFO - Scrapeando página 45...
+2026-06-20 18:12:34,934 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:12:35,105 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:12:35,327 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/37853/banco-de-talentos-titulados-as-l-oreal-chile
+2026-06-20 18:12:35,333 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55105/practica-en-atraccion-de-talento-colombia
+2026-06-20 18:12:35,337 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55051/analista-de-evaluacion-economica
+2026-06-20 18:12:35,342 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55050/asistente-contable
+2026-06-20 18:12:35,347 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55049/analista-de-mantenimiento
+2026-06-20 18:12:36,177 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55048/analista-de-gestion-y-control
+2026-06-20 18:12:36,227 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55052/analista-de-business-analytics-cvm
+2026-06-20 18:12:36,318 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55044/analista-de-control-interno
+2026-06-20 18:12:36,327 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55043/analista-de-business-analytics
+2026-06-20 18:12:36,327 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54969/practica-de-contabilidad
+2026-06-20 18:12:36,878 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55102/practica-pro-profesional-reclutamiento-y-seleccion-peru
+2026-06-20 18:12:36,925 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55047/analista-de-atraccion-del-talento-temporal
+2026-06-20 18:12:37,003 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55045/analista-de-proyectos-y-relacionamiento
+2026-06-20 18:12:37,092 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54466/analista-contabilidad-administracion-i
+2026-06-20 18:12:37,123 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55046/trainee-gestor-comercial-de-banca-empresas-e-instituciones-9na-edicion
+2026-06-20 18:12:37,537 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54968/practica-preprofesional-de-auditoria
+2026-06-20 18:12:37,657 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54465/business-specialist-cmr-contact-center
+2026-06-20 18:12:37,692 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54464/ejecutivo-a-de-ventas-b2b-medios-de-pago-pyme-lima-banco-de-credito-bcp
+2026-06-20 18:12:37,726 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54461/business-analyst
+2026-06-20 18:12:37,753 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54454/practica-de-relaciones-comunitarias
+2026-06-20 18:12:43,967 - firstjob_scraper - INFO - Scrapeando página 46...
+2026-06-20 18:12:43,980 - firstjob_scraper - INFO - Detectando 20 ofertas en la página...
+2026-06-20 18:12:44,156 - firstjob_scraper - INFO - Total de ofertas encontradas: 20. Procesando concurrentemente...
+2026-06-20 18:12:44,369 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54971/practicante-de-gobierno-de-intervenciones
+2026-06-20 18:12:44,374 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55030/practica-area-de-ventas-sdr-remoto-colombia
+2026-06-20 18:12:44,379 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/55026/practica-pro-area-de-ventas-sdr-remoto-peru
+2026-06-20 18:12:44,383 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54967/practica-de-excelencia-operativa-lima
+2026-06-20 18:12:44,388 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54960/practica-pre-profesional-de-data-y-analytics
+2026-06-20 18:12:45,402 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54463/ejecutivo-a-banca-pyme-lima
+2026-06-20 18:12:45,411 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54224/practica-tecnico-de-planta-senati
+2026-06-20 18:12:45,444 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54460/practica-pre-profesional-de-calidad-y-procesos
+2026-06-20 18:12:45,482 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54970/practica-de-rentabilidad-y-costeo
+2026-06-20 18:12:45,595 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54962/practica-pre-profesional-canal-masivo
+2026-06-20 18:12:45,776 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54342/practica-universitaria-rrhh
+2026-06-20 18:12:45,870 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54964/practica-comercial-alquileres-y-motores-retail
+2026-06-20 18:12:45,932 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54961/practica-pre-profesional-de-operaciones-compras
+2026-06-20 18:12:46,026 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54341/practica-universitaria-de-administracion-de-empresas
+2026-06-20 18:12:46,041 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53982/practica-customer-operations-executive-bogota
+2026-06-20 18:12:46,135 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54458/practica-profesional-administrativa
+2026-06-20 18:12:46,245 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54866/marketplace-operations-analyst
+2026-06-20 18:12:46,354 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54457/practica-pre-profesional-de-control-de-gestion
+2026-06-20 18:12:46,448 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/53965/administrativo-servicios-operaciones
+2026-06-20 18:12:46,479 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54455/practica-pre-profesional-de-marca-corporativa
+2026-06-20 18:12:52,251 - firstjob_scraper - INFO - Scrapeando página 47...
+2026-06-20 18:12:52,265 - firstjob_scraper - INFO - Detectando 4 ofertas en la página...
+2026-06-20 18:12:52,407 - firstjob_scraper - INFO - Total de ofertas encontradas: 4. Procesando concurrentemente...
+2026-06-20 18:12:52,618 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54692/programa-pasantias-fresh-minds-planta-the-coca-cola-company
+2026-06-20 18:12:52,626 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54239/practicas-unilever-peru-customer-development-2026-2
+2026-06-20 18:12:52,626 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54238/practicas-unilever-peru-marketing-2026-2
+2026-06-20 18:12:52,635 - firstjob_scraper - INFO - Procesando: https://firstjob.me/oferta/54422/programa-de-practicas-fresh-minds-corporativo-2026-the-coca-cola-company
+2026-06-20 18:12:53,657 - firstjob_scraper - INFO - No hay más páginas. Finalizando...
+2026-06-20 18:12:55,194 - firstjob_scraper - INFO - Excel guardado exitosamente en C:\Users\Nach\Desktop\datos\first_job\first_job\summary_data\2026-06-20\summary_data.xlsx
+2026-06-20 18:12:55,194 - firstjob_scraper - INFO - Descarga finalizada. Datos guardados en C:\Users\Nach\Desktop\datos\first_job\first_job\summary_data\2026-06-20\summary_data.xlsx

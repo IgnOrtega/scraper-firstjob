@@ -97,4 +97,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     asyncio.run(main(args.dir, args.headless))
-# python "main.py" "C:\Users\Nach\Desktop\datos\first_job" "false"
+# python "main.py" --dir "C:\Users\Nach\Desktop\datos\first_job"
