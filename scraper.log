@@ -1067,3 +1067,37 @@
 2026-06-20 18:12:53,657 - firstjob_scraper - INFO - No hay más páginas. Finalizando...
 2026-06-20 18:12:55,194 - firstjob_scraper - INFO - Excel guardado exitosamente en C:\Users\Nach\Desktop\datos\first_job\first_job\summary_data\2026-06-20\summary_data.xlsx
 2026-06-20 18:12:55,194 - firstjob_scraper - INFO - Descarga finalizada. Datos guardados en C:\Users\Nach\Desktop\datos\first_job\first_job\summary_data\2026-06-20\summary_data.xlsx
+2026-07-17 22:05:09,175 - firstjob_scraper - INFO - Configurado para recorrer un máximo de 2 páginas.
+2026-07-17 22:05:09,175 - firstjob_scraper - INFO - Retraso configurado (Esperanza): 1.0s con Varianza del 5%.
+2026-07-17 22:05:09,175 - firstjob_scraper - INFO - Iniciando scraping en https://firstjob.me/ofertas?semantic=a
+2026-07-17 22:05:09,175 - firstjob_scraper - INFO - Procesando página 1: https://firstjob.me/ofertas?semantic=a
+2026-07-17 22:05:34,332 - firstjob_scraper - INFO - Página procesada: 20 ofertas nuevas, 0 ya conocidas.
+2026-07-17 22:05:34,332 - firstjob_scraper - INFO - Esperando 1.22 segundos antes de la siguiente página...
+2026-07-17 22:05:35,550 - firstjob_scraper - INFO - Procesando página 2: https://firstjob.me/ofertas?page=2&semantic=a
+2026-07-17 22:06:02,064 - firstjob_scraper - INFO - Página procesada: 20 ofertas nuevas, 0 ya conocidas.
+2026-07-17 22:06:02,064 - firstjob_scraper - INFO - Esperando 0.71 segundos antes de la siguiente página...
+2026-07-17 22:06:03,109 - firstjob_scraper - INFO - Excel guardado exitosamente en C:\Users\Nach\AppData\Local\Temp\claude\C--Users-Nach-Desktop-projects-scraper\cc5e148e-4c1f-4382-a1b3-86e9db0c782d\scratchpad\fj_test\first_job\summary_data.xlsx
+2026-07-17 22:06:03,109 - firstjob_scraper - INFO - Scraping finalizado. 40 ofertas nuevas hoy, 40 en total (últimos 30 días).
+2026-07-17 22:06:03,110 - firstjob_scraper - INFO - Datos guardados en C:\Users\Nach\AppData\Local\Temp\claude\C--Users-Nach-Desktop-projects-scraper\cc5e148e-4c1f-4382-a1b3-86e9db0c782d\scratchpad\fj_test\first_job\summary_data.xlsx
+2026-07-17 22:07:05,735 - firstjob_scraper - INFO - Configurado para recorrer un máximo de 2 páginas.
+2026-07-17 22:07:05,735 - firstjob_scraper - INFO - Retraso configurado (Esperanza): 1.0s con Varianza del 5%.
+2026-07-17 22:07:05,954 - firstjob_scraper - INFO - Historial cargado: 40 ofertas de los últimos 30 días.
+2026-07-17 22:07:05,954 - firstjob_scraper - INFO - Iniciando scraping en https://firstjob.me/ofertas?semantic=a
+2026-07-17 22:07:05,955 - firstjob_scraper - INFO - Procesando página 1: https://firstjob.me/ofertas?semantic=a
+2026-07-17 22:07:10,690 - firstjob_scraper - INFO - Página procesada: 0 ofertas nuevas, 20 ya conocidas.
+2026-07-17 22:07:10,690 - firstjob_scraper - INFO - Esperando 0.69 segundos antes de la siguiente página...
+2026-07-17 22:07:11,378 - firstjob_scraper - INFO - Procesando página 2: https://firstjob.me/ofertas?page=2&semantic=a
+2026-07-17 22:07:15,581 - firstjob_scraper - INFO - Página procesada: 0 ofertas nuevas, 20 ya conocidas.
+2026-07-17 22:07:15,582 - firstjob_scraper - INFO - Esperando 1.02 segundos antes de la siguiente página...
+2026-07-17 22:07:16,648 - firstjob_scraper - INFO - Excel guardado exitosamente en C:\Users\Nach\AppData\Local\Temp\claude\C--Users-Nach-Desktop-projects-scraper\cc5e148e-4c1f-4382-a1b3-86e9db0c782d\scratchpad\fj_test\first_job\summary_data.xlsx
+2026-07-17 22:07:16,648 - firstjob_scraper - INFO - Scraping finalizado. 0 ofertas nuevas hoy, 40 en total (últimos 30 días).
+2026-07-17 22:07:16,648 - firstjob_scraper - INFO - Datos guardados en C:\Users\Nach\AppData\Local\Temp\claude\C--Users-Nach-Desktop-projects-scraper\cc5e148e-4c1f-4382-a1b3-86e9db0c782d\scratchpad\fj_test\first_job\summary_data.xlsx
+2026-07-17 22:09:10,439 - firstjob_scraper - INFO - Configurado para recorrer un máximo de 1 páginas.
+2026-07-17 22:09:10,439 - firstjob_scraper - INFO - Retraso configurado (Esperanza): 1.0s con Varianza del 5%.
+2026-07-17 22:09:10,439 - firstjob_scraper - INFO - Iniciando scraping en https://firstjob.me/ofertas?semantic=a
+2026-07-17 22:09:10,440 - firstjob_scraper - INFO - Procesando página 1: https://firstjob.me/ofertas?semantic=a
+2026-07-17 22:09:36,579 - firstjob_scraper - INFO - Página procesada: 20 ofertas nuevas, 0 ya conocidas.
+2026-07-17 22:09:36,579 - firstjob_scraper - INFO - Esperando 1.24 segundos antes de la siguiente página...
+2026-07-17 22:09:38,047 - firstjob_scraper - INFO - Excel guardado exitosamente en C:\Users\Nach\AppData\Local\Temp\claude\C--Users-Nach-Desktop-projects-scraper\cc5e148e-4c1f-4382-a1b3-86e9db0c782d\scratchpad\fj_test\first_job\summary_data.xlsx
+2026-07-17 22:09:38,047 - firstjob_scraper - INFO - Scraping finalizado. 20 ofertas nuevas hoy, 20 en total (últimos 30 días).
+2026-07-17 22:09:38,047 - firstjob_scraper - INFO - Datos guardados en C:\Users\Nach\AppData\Local\Temp\claude\C--Users-Nach-Desktop-projects-scraper\cc5e148e-4c1f-4382-a1b3-86e9db0c782d\scratchpad\fj_test\first_job\summary_data.xlsx
